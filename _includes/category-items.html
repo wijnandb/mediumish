@@ -1,0 +1,8 @@
+        {%- if site.categories[page.category].size > 1 -%}
+            <ul class="list-unstyled">
+                <h3>{{ page.category }}</h3>
+                {%- for post in site.categories[page.category] limit: page.aantal -%}
+                    <li class="text-truncate small text-dark"><a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></li>
+                {%- endfor -%}
+            </ul>
+        {%- endif -%}

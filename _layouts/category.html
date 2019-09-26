@@ -1,0 +1,23 @@
+---
+layout: default
+---
+
+<div class="row">
+    <div class="col-md-8"><h3>{{ page.title }}</h3>
+        {% if page.image %}<img src="{{ page.image }}" width="100%">
+        {% endif %}
+          <br><br>
+                
+                <p class="small text-secondary">{{ page.date | date: "%-d-%-m-%Y %H:%M" }}<br><br>
+                {{ page.aantal }} woorden</p><br>
+                {{ content }}<br>
+                <p class="small text-secondary text-right">Bron: {{ page.author }}</p>
+        </div>
+        <div class="col-md-4">  
+            {%- if site.categories[page.category].size > 2 -%}
+                {%- include category-items.html -%}
+            {%- endif -%}</div>
+    </div>
+    <br>
+    <br>
+</div>

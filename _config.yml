@@ -1,0 +1,69 @@
+# Site
+name: "LeestMeer"
+title: "LeestMeer"
+description: "Leesmateriaal voor SGBonaire. Nieuws, actualiteiten en boeken."
+logo: 'assets/images/logo.png'
+favicon: 'assets/images/favicon.ico'
+baseurl: 
+google_analytics: 
+disqus: 
+include: ["_pages"]
+permalink: /:title/
+
+# Authors
+authors:
+  telegraaf:
+    name: Telegraaf
+    display_name: Telegraaf
+    avatar: 'assets/images/telegraaf.png'
+    email: 
+    web: https://www.telegraaf.nl
+    twitter: https://twitter.com/telegraaf
+    description: "Author of Mediumish, a Bootstrap Medium styled template available for WordPress, HTML, Ghost and Jekyll. You are currently previewing Jekyll template demo."
+  NOS:
+    name: NOS
+    display_name: NOS    
+    avatar: 'assets/images/nos.png'
+    email: 
+    web: https://www.nos.nl
+    twitter: https://twitter.com/nos
+    description: "Hier kun je iets schrijven over de NOS"
+
+# Plugins
+plugins:
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-archives
+    
+# Archives
+jekyll-archives:
+  enabled:
+    - categories
+  layout: archive
+  permalinks:
+    category: '/:name/'
+    year: '/:year/'
+    month: '/:year/:month/'
+    day: '/:year/:month/:day/'
+    tag: '/tag/:name/'
+    
+# Pagination 
+paginate: 6
+paginate_path: /page:num/
+    
+# Other
+markdown: kramdown
+
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
+  syntax_highlighter_opts:
+    block:
+      line_numbers: true
+
+# Lazy Images ("enabled" or "disabled")
+lazyimages: "disabled"
+
+exclude: [changelog.md, LICENSE.txt, README.md, Gemfile, Gemfile.lock]
