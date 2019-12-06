@@ -1,0 +1,15 @@
+---
+layout: post
+title: "Fraaie mijlpaal voor Wüst"
+date: Sun, 24 Nov 2019 16:12:01 +0100
+categories: 
+- sport 
+- schaatsen 
+externe_link: "https://www.telegraaf.nl/sport/284625691/fraaie-mijlpaal-voor-wust"
+image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/9e538cf2-0ed5-11ea-935d-0217670beecd.jpg"
+aantal: 431
+unieke: 248
+bron: "De Telegraaf"
+---
+
+<p class="intro">Ireen Wüst heeft voor de 25e keer wereldbekergoud veroverd op de 1500 meter.</p> <p>De regerend olympisch en wereldkampioene op dit onderdeel was ook in Polen de beste op de schaatsmijl met een baanrecord van 1.56,62. Vorige week zegevierde de 33-jarige Brabantse op haar favoriete afstand ook al in Minsk, toen met ongeveer dezelfde tijd (1.56,46).</p><p>De Japanse Miho Takagi pakte zilver met een tijd van 1.57,17. Het brons was voor de Russin Evgeniia Lalenkova (1.57,28). Melissa Wijfje eindigde met een tijd van 1.57,45 verdienstelijk als vierde. Voor de 24-jarige rijdster van gewest Friesland was dat haar beste klassering ooit in de wereldbeker op de 1500 meter. Antoinette de Jong, die worstelt met haar vorm, reed met 1.58,05 de negende tijd.</p><p>Jorien ter Mors, olympisch kampioene op de 1500 meter in 2014, en wereldbekerhoudster Brittany Bowe gingen in de laatste rit nog vol verwachting op jacht naar de leidende tijd van Wüst. Ter Mors moest de Amerikaanse op de eerste kruising echter laten voorgaan, waardoor een podiumplek er voor haar niet meer in zat (dertiende in 1.58,85). Bowe kon haar marge op Wüst in de laatste ronde niet vasthouden en belandde met 1.57,72 op de zesde plek. Reina Anema eindigde met 2.01,13 op de twintigste en laatste plaats.</p><p>’Dit is heel lekker’</p><p>„Twee keer op rij winnen op de 1500 meter, dat is heel lekker en geeft zeker voldoening”, gaf Wüst lachend toe bij de NOS. „Ik twijfel eigenlijk nooit op deze afstand. Natuurlijk, ik moet het elke keer wel weer laten zien, maar ik weet wat ik moet doen om te kunnen winnen.”</p><p>Wüst liet in de aanloop naar de tweede wereldbeker in Polen weten dat ze in principe wil doorgaan tot en met de Winterspelen van Peking 2022. Na haar jubileumzege in Tomaszów Mazowiecki wilde ze zó ver nog niet vooruitkijken. „Goud bij de WK afstanden in Salt Lake City op de 1500 meter is mijn grote doel. Hopelijk met een heel mooie tijd. Ik ben net als heel goede wijn. Hoe ouder, hoe beter.”</p><p>Wüst mikt op de Amerikaanse hooglandbaan op een wereldrecord op de 1500 meter. In haar prachtige carrière heeft ze nog nooit een mondiale toptijd op haar naam weten te brengen.</p><p>Massastart</p><p>Irene Schouten heeft bij de wereldbeker in Polen de massastart winnend afgesloten. De regerend wereldkampioene was in de laatste ronde in een lange sprint de Canadese Ivanie Blondin te snel af. De Japanse Nana Takagi finishte na zestien ronden als derde.</p><p>Voor Schouten was het haar negende triomf in de wereldbeker op dit onderdeel. Vorige week in Minsk moest de 27-jarige rijdster van Team easyJet achter Blondin nog genoegen nemen met zilver.</p>

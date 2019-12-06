@@ -1,0 +1,15 @@
+---
+layout: post
+title: "Roest wint 5000 meter, De Jong vindt zichzelf ’een pannenkoek’"
+date: Fri, 22 Nov 2019 19:33:16 +0100
+categories: 
+- sport 
+- schaatsen 
+externe_link: "https://www.telegraaf.nl/sport/964015007/roest-wint-5000-meter-de-jong-vindt-zichzelf-een-pannenkoek"
+image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/6ef090cc-0d63-11ea-9579-02c309bc01c1.jpg"
+aantal: 423
+unieke: 270
+bron: "De Telegraaf"
+---
+
+<p class="intro">Patrick Roest heeft in het wereldbekercircuit zijn tweede opeenvolgende overwinning op de 5000 meter geboekt.</p> <p>De 23-jarige schaatser van Team Jumbo-Visma zegevierde in Polen met een baanrecord: 6.19,38. Vorige week was hij ook al de beste in Minsk.</p><p>De Rus Danila Semerikov reed in Tomaszow Mazowiecki de tweede tijd: 6.20,46. Het brons ging naar zijn landgenoot Denis Yuskov: 6.24,30. Marcel Bosker kwam 0,04 seconde tekort voor de derde plaats.</p><p>Jorrit Bergsma, vorige week nog keurig tweede, moest genoegen nemen met de zesde plek: 6.26,12. Douwe de Vries belandde met 6.29,87 op de negende plaats. In de B-divisie kwam Jan Blokhuijsen niet verder dan de elfde tijd: 6.33,10.</p><p>Minder scherp</p><p>Roest pakte in Polen zijn vierde wereldbekerzege op de 5000 meter. De tweevoudig wereldkampioen allround reageerde ingetogen na zijn winnende race. „Het is altijd lekker om te winnen. Het was best wel een goede rit, maar het ging minder makkelijk dan vorige week. Misschien was ik toch wat minder fit en scherp dan in Minsk. Dat krijg je nu eenmaal als je meteen zoveel wedstrijden moet rijden aan het begin van het seizoen.”</p><p>Roest erkende dat het lastig wordt voor hem om zijn leidende positie in het wereldbekerklassement vast te houden. „We gaan immers wereldbekers overslaan met de ploeg. Die eerste plek zegt me daarom nu niet zoveel. Doel is natuurlijk nog wel om mezelf te plaatsen voor de wereldbekerfinale aan het einde van het seizoen in Heerenveen. Dat is gewoon een heel mooie wedstrijd om nog te rijden.”</p><p>Vrouwen: De Jong vindt zichzelf pannenkoek</p><p>Antoinette de Jong was begin deze maand nog de grote winnares bij de Nederlandse kwalificatiewedstrijden in Thialf. De Friese schaatsster pakte wereldbekertickets op vier afstanden. Van dat goede gevoel in Heerenveen is niet veel meer over. „Ik rijd als een pannenkoek”, oordeelde ze bij de NOS hard over zichzelf.</p><p>De Jong eindigde tijdens de tweede wereldbeker in Polen op de 3000 meter als zevende. Vorig weekeinde moest ze in Minsk genoegen nemen met de vijfde plek. Ook op de 1000 m (achtste) en 1500 m (tiende) wilde het niet lukken. De Europees allroundkampioene dacht dat het in Wit-Rusland nog om een incident ging, maar kwam bedrogen uit.</p><p>„Dit is zwaar teleurstellend. Het slaat helemaal nergens op wat ik aan het doen ben”, verzuchtte De Jong (24). „Na drie rondjes was het over. Ik mis iets, maar ik weet niet wat. Dit is niet hoe ik kan en wil schaatsen. Het is in elk geval verschrikkelijk frustrerend. Mijn hoofd zit vol vraagtekens. Ik hoop dat ik de komende weken tijdens een trainingskamp in Collalbo mezelf weer kan terugvinden.”</p>
