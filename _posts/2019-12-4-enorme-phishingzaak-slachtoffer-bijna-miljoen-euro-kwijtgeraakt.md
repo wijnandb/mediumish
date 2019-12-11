@@ -7,7 +7,7 @@ externe_link: "https://nos.nl/l/2313241"
 image: "https://nos.nl/data/image/2019/12/04/610351/1008x567.jpg"
 aantal: 387
 unieke: 230
-bron: "NOS"
+author: "NOS"
 ---
 
 <p>Een man uit Noord-Nederland is bijna een miljoen euro kwijtgeraakt door phishing. Hij leek op een avond in september een sms van zijn bank te krijgen dat zijn betaalpas bijna verliep, klikte op de link en vulde zijn gegevens in op een wat een nagemaakte website bleek te zijn. De volgende ochtend was hij bijna een miljoen euro armer. Het is de grootste zaak in zijn soort tot nu toe.</p>

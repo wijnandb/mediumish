@@ -7,7 +7,7 @@ externe_link: "http://feeds.nos.nl/~r/nossportschaatsen/~3/hGlTHVTkmiI/2313509"
 image: "https://nos.nl/data/image/2019/12/06/612007/1008x567.jpg"
 aantal: 510
 unieke: 299
-bron: "NOS"
+author: "NOS"
 ---
 
 <p>Michelle de Jong, Jutta Leerdam en Letitia de Jong hebben in het Kazachse Nur-Sultan de teamsprint op hun naam geschreven.</p>

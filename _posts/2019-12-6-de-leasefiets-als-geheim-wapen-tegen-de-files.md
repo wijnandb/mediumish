@@ -7,7 +7,7 @@ externe_link: "https://nos.nl/l/2313621"
 image: "https://nos.nl/data/image/2019/12/06/612117/1008x567.jpg"
 aantal: 558
 unieke: 300
-bron: "NOS"
+author: "NOS"
 ---
 
 <p>Per 1 januari 2020 maakt de nieuwe 'fiets van de zaak'-regeling het gemakkelijker om een fiets te leasen via de werkgever. De regeling is vergelijkbaar met die voor een leaseauto. Over een leasefiets betaal je 7 procent bijtelling. Zo kun je al voor een paar euro per maand op een dure, elektrische fiets naar het werk.</p>

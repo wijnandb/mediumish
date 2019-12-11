@@ -7,7 +7,7 @@ externe_link: "https://nos.nl/l/2313053"
 image: "https://nos.nl/data/image/2019/12/03/610019/1008x567.jpg"
 aantal: 536
 unieke: 312
-bron: "NOS"
+author: "NOS"
 ---
 
 <p>Hij heeft ervaring met circuits over de hele wereld, renoveerde onder meer Imola en Silverstone. Aan ervaring geen gebrek bij Jarno Zaffelli, die met zijn bedrijf Dromo Circuit Design het circuit van Zandvoort opknapt.</p>

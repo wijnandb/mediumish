@@ -7,7 +7,7 @@ externe_link: "https://nos.nl/l/2313659"
 image: "https://nos.nl/data/image/2019/12/07/612189/1008x567.jpg"
 aantal: 403
 unieke: 264
-bron: "NOS"
+author: "NOS"
 ---
 
 <p>Pinguïns op een ijsberg zo groot als een kathedraal. Een kudde olifanten in de paarse avondschemer. Vechtende konikpaarden in de Oostvaardersplassen. Natuurfotograaf Frans Lanting reist de hele wereld over om zijn plaatjes te schieten. Maar hij zegt er niet meer altijd bij waar de foto's genomen zijn.</p>

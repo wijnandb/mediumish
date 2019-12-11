@@ -7,7 +7,7 @@ externe_link: "https://nos.nl/l/2312644"
 image: "https://nos.nl/data/image/2019/11/30/601069/1008x567.jpg"
 aantal: 656
 unieke: 387
-bron: "NOS"
+author: "NOS"
 ---
 
 <p>Het is een cliché: de Formule 1 kan niet zonder Ferrari en Ferrari kan niet zonder Formule 1. Maar de Italiaanse renstal heeft al dik een decennium geen titel binnengesleept. Ook 2019 is een deceptie. En niemand durft uit te spreken dat het volgend jaar goed komt.</p>

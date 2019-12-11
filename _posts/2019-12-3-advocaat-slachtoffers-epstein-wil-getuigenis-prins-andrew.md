@@ -7,7 +7,7 @@ externe_link: "http://feeds.nos.nl/~r/nosnieuwskoningshuis/~3/fAYhTLdAyO0/231304
 image: "https://nos.nl/data/image/2019/12/03/609495/1008x567.jpg"
 aantal: 272
 unieke: 160
-bron: "NOS"
+author: "NOS"
 ---
 
 <p>Vijf vrouwen die zeggen dat ze zijn misbruikt door Jeffrey Epstein willen dat prins Andrew in de Verenigde Staten komt getuigen over zijn vriendschap met de Amerikaan. De advocaat van de vrouwen, David Boies, gaat hem daartoe dagvaarden, zei hij tegen BBC Panorama.</p>

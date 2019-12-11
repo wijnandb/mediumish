@@ -7,7 +7,7 @@ externe_link: "https://nos.nl/l/2312770"
 image: "https://nos.nl/data/image/2019/12/02/609166/1008x567.jpg"
 aantal: 683
 unieke: 377
-bron: "NOS"
+author: "NOS"
 ---
 
 <p>Als je de app opent, kom je in een wereld terecht van korte filmpjes waarin mensen dansen of andere acts opvoeren. Welkom bij TikTok, een app die steeds populairder wordt onder tieners, met op de voorpagina filmpjes die makkelijk viral gaan.</p>

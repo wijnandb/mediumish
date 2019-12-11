@@ -7,7 +7,7 @@ externe_link: "http://feeds.nos.nl/~r/nossportschaatsen/~3/NQ7hVY1Y-XM/2313848"
 image: "https://nos.nl/data/image/2019/12/08/612591/1008x567.jpg"
 aantal: 276
 unieke: 184
-bron: "NOS"
+author: "NOS"
 ---
 
 <p>De 20-jarige Chinese schaatser Ning Zhongyan heeft in Nur-Sultan zijn eerste overwinning in het wereldbekercircuit geboekt. Ning bleef drie Nederlanders voor op de 1.500 meter.</p>

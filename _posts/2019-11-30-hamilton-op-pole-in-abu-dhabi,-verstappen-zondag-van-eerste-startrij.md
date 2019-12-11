@@ -7,7 +7,7 @@ externe_link: "https://nos.nl/l/2312683"
 image: "https://nos.nl/data/image/2019/11/30/601199/1008x567.jpg"
 aantal: 274
 unieke: 154
-bron: "NOS"
+author: "NOS"
 ---
 
 <p>Lewis Hamilton vertrekt zondag bij de laatste grand prix van het Formule 1-seizoen in Abu Dhabi van poleposition. De wereldkampioen was in de kwalificatie met 1.34,779 de snelste.</p>

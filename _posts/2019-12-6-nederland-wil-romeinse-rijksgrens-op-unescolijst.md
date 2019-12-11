@@ -7,7 +7,7 @@ externe_link: "https://nos.nl/l/2313549"
 image: "https://nos.nl/data/image/2019/12/06/611974/1008x567.jpg"
 aantal: 180
 unieke: 134
-bron: "NOS"
+author: "NOS"
 ---
 
 <p>De voormalige noordgrens van het Romeinse Rijk is een uniek en onvervangbaar monument dat op de Werelderfgoedlijst van de Unesco moet komen. Dat vinden Nederland en Duitsland, die de Neder-Germaanse Limes daarom gezamenlijk voordragen voor de lijst. Volgende zomer wordt er een besluit over genomen.</p>

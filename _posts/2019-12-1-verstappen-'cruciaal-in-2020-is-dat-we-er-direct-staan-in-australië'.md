@@ -7,7 +7,7 @@ externe_link: "https://nos.nl/l/2312853"
 image: "https://nos.nl/data/image/2019/12/01/606766/1008x567.jpg"
 aantal: 411
 unieke: 242
-bron: "NOS"
+author: "NOS"
 ---
 
 <p>Het seizoen 2019 zat er amper op of Max Verstappen blikte zondag al vooruit naar de start van het komende Formule 1-jaar.</p>

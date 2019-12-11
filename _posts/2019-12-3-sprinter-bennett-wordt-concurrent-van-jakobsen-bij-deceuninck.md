@@ -7,7 +7,7 @@ externe_link: "https://nos.nl/l/2313146"
 image: "https://nos.nl/data/image/2019/12/03/609836/1008x567.jpg"
 aantal: 139
 unieke: 95
-bron: "NOS"
+author: "NOS"
 ---
 
 <p>Wielerploeg Deceuninck-QuickStep heeft in Sam Bennett een opvolger gevonden voor Elia Viviani. De Ierse sprinter komt over van Bora-Hansgrohe, waar hij vijf jaar voor uitkwam.</p>

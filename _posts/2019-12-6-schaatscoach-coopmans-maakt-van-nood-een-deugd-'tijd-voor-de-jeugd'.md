@@ -7,7 +7,7 @@ externe_link: "http://feeds.nos.nl/~r/nossportschaatsen/~3/BazU1DTrwTQ/2313467"
 image: "https://nos.nl/data/image/2019/12/06/611748/1008x567.jpg"
 aantal: 466
 unieke: 292
-bron: "NOS"
+author: "NOS"
 ---
 
 <p>Wie zondag inschakelt om de wereldbekerwedstrijden schaatsen in het Kazachse Nur-Sultan te zien, zal toch even raar opkijken bij het ontwaren van de Nederlandse schaatsers op de ploegenachtervolging. Ze luisteren naar de namen Chris Huizinga, Marcel Bosker en Tjerk de Boer.</p>

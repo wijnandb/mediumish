@@ -7,7 +7,7 @@ externe_link: "http://feeds.nos.nl/~r/nosnieuwskoningshuis/~3/pixInx9Aues/231301
 image: "https://nos.nl/data/image/2019/12/03/609482/1008x567.jpg"
 aantal: 436
 unieke: 247
-bron: "NOS"
+author: "NOS"
 ---
 
 <p>"Ik smeek de mensen in het Verenigd Koninkrijk achter me te staan, me te helpen in dit gevecht, dit niet normaal te vinden. Dit is niet een of ander ranzig seksverhaal. Dit is een verhaal over mensenhandel, over misbruik en jullie koningshuis."</p>

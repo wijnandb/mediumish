@@ -7,7 +7,7 @@ externe_link: "https://nos.nl/l/2313983"
 image: "https://nos.nl/data/image/2019/12/07/612396/1008x567.jpg"
 aantal: 463
 unieke: 270
-bron: "NOS"
+author: "NOS"
 ---
 
 <p>Staatssecretaris Blokhuis werkt aan een verbod op lachgas voor recreatief gebruik. Aanleiding voor de maatregel is een advies van de drugsbeoordelingscommissie CAM. Daarin staat dat het risico van lachgas voor de volksgezondheid "matig tot groot" is.</p>

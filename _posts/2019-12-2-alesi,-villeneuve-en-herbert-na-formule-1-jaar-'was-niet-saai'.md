@@ -7,7 +7,7 @@ externe_link: "https://nos.nl/l/2312930"
 image: "https://nos.nl/data/image/2019/12/02/609041/1008x567.jpg"
 aantal: 780
 unieke: 413
-bron: "NOS"
+author: "NOS"
 ---
 
 <p>Lewis Hamilton wereldkampioen, Mercedes kampioen. En Max Verstappen derde in de WK-stand na drie zeges en negen podiumplaatsen. Het Formule 1-jaar 2019 zit erop. Wat was het voor seizoen?</p>

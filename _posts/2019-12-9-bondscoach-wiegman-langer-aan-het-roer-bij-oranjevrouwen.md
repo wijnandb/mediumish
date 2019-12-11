@@ -2,12 +2,12 @@
 layout: post
 title: "Bondscoach Wiegman langer aan het roer bij Oranjevrouwen"
 date: Mon, 09 Dec 2019 17:38:09 +0100
-category: sport_algemeen
+category: voetbal
 externe_link: "https://nos.nl/l/2314027"
 image: "https://nos.nl/data/image/2019/12/09/612925/1008x567.jpg"
 aantal: 205
 unieke: 137
-bron: "NOS"
+author: "NOS"
 ---
 
 <p>Sarina Wiegman blijft voorlopig bondscoach van de Nederlandse voetbalvrouwen. De 50-jarige trainster heeft haar contract verlengd tot en met het EK van 2021. De verbintenis van Wiegman met de KNVB liep tot en met de Olympische Spelen van 2020 in Tokio.</p>

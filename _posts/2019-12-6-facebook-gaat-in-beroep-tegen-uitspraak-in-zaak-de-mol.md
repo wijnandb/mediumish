@@ -7,7 +7,7 @@ externe_link: "https://nos.nl/l/2313499"
 image: "https://nos.nl/data/image/2019/12/06/611842/1008x567.jpg"
 aantal: 377
 unieke: 227
-bron: "NOS"
+author: "NOS"
 ---
 
 <p>Facebook gaat in hoger beroep tegen de uitspraak in de zaak van mediamagnaat John de Mol. Op Facebook verschenen advertenties waarin De Mol bitcoins en andere cryptovaluta aanprees, maar hij had daar zelf niets mee te maken. De rechter bepaalde dat de advertenties daarom geweerd moeten worden.</p>

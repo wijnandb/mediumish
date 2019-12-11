@@ -7,7 +7,7 @@ externe_link: "http://feeds.nos.nl/~r/nossportschaatsen/~3/Frmr8WI3BFQ/2311836"
 image: "https://nos.nl/data/image/2019/11/24/595928/1008x567.jpg"
 aantal: 415
 unieke: 252
-bron: "NOS"
+author: "NOS"
 ---
 
 <p>Een succesvolle laatste dag voor de Nederlandse schaatssters bij de wereldbekerwedstrijden in het Poolse Tomaszów. Ireen Wüst won de tweede 1.500 meter van het wereldbekerseizoen en Irene Schouten pakte het goud op de afsluitende massastart.</p>

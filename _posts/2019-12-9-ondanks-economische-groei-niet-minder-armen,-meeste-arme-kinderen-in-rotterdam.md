@@ -7,7 +7,7 @@ externe_link: "https://nos.nl/l/2313970"
 image: "https://nos.nl/data/image/2019/12/09/612815/1008x567.jpg"
 aantal: 365
 unieke: 199
-bron: "NOS"
+author: "NOS"
 ---
 
 <p>Ondanks de economische groei van de laatste jaren is het aantal mensen dat de kans loopt arm te worden niet kleiner geworden. Bijna 600.000 huishoudens hadden in 2018 een laag inkomen en liepen risico op armoede, blijkt uit een rapport van het Centraal Bureau voor de Statistiek.</p>

@@ -7,7 +7,7 @@ externe_link: "https://nos.nl/l/2312990"
 image: "https://nos.nl/data/image/2019/12/02/609263/1008x567.jpg"
 aantal: 270
 unieke: 170
-bron: "NOS"
+author: "NOS"
 ---
 
 <p>De Europese Commissie is inleidende onderzoeken gestart naar de datapraktijken van Facebook en Google. Dat bevestigt een woordvoerder van de commissie aan de NOS na berichtgeving van CNN.</p>

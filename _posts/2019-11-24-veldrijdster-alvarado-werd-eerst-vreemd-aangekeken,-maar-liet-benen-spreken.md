@@ -7,7 +7,7 @@ externe_link: "https://nos.nl/l/2311779"
 image: "https://nos.nl/data/image/2019/11/24/595777/1008x567.jpg"
 aantal: 648
 unieke: 364
-bron: "NOS"
+author: "NOS"
 ---
 
 <p>Het is deze zondagmorgen nog rustig in het busje van de wielerfamilie Alvarado. Vader Rafael zit achter het stuur, moeder Ramona op de bijrijdersstoel en de kinderen Salvador en Ceylin del Carmen Alvarado zitten met koptelefoons op achterin. Doel van de reis: de wereldbekerwedstrijd veldrijden in Koksijde.</p>

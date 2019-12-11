@@ -2,12 +2,12 @@
 layout: post
 title: "Wereldkampioen tijdrijden Dennis tekent voor twee jaar bij Ineos"
 date: Mon, 09 Dec 2019 13:01:36 +0100
-category: sport_algemeen
+category: wielrennen
 externe_link: "https://nos.nl/l/2313993"
 image: "https://nos.nl/data/image/2019/12/09/612870/1008x567.jpg"
 aantal: 172
 unieke: 130
-bron: "NOS"
+author: "NOS"
 ---
 
 <p>Rohan Dennis rijdt de komende twee jaar voor Team Ineos. De Australische wielrenner, regerend wereldkampioen tijdrijden, reed sinds augustus 2018 voor Bahrain-Merida.</p>

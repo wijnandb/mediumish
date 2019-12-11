@@ -7,7 +7,7 @@ externe_link: "http://feeds.nos.nl/~r/nossportschaatsen/~3/eFEy1Dy2lvk/2313842"
 image: "https://nos.nl/data/image/2019/12/08/612587/1008x567.jpg"
 aantal: 328
 unieke: 205
-bron: "NOS"
+author: "NOS"
 ---
 
 <p>Schaatsster Ireen Wüst heeft het wereldbekerweekeinde in Nur-Sultan afgesloten met twee zilveren medailles. Wüst werd met Antoinette de Jong en Melissa Wijfje tweede op de ploegenachtervolging achter Canada.</p>

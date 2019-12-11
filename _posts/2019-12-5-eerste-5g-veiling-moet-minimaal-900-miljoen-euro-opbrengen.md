@@ -7,7 +7,7 @@ externe_link: "https://nos.nl/l/2313359"
 image: "https://nos.nl/data/image/2019/12/05/611445/1008x567.jpg"
 aantal: 471
 unieke: 297
-bron: "NOS"
+author: "NOS"
 ---
 
 <p>De Nederlandse staat hoopt met de eerste veiling van 5G-spectrum komend voorjaar minimaal 900 miljoen euro op te halen. Dat heeft staatssecretaris Mona Keijzer van Economische Zaken bekendgemaakt.</p>

@@ -7,7 +7,7 @@ externe_link: "https://nos.nl/l/2311837"
 image: "https://nos.nl/data/image/2019/11/24/596013/1008x567.jpg"
 aantal: 109
 unieke: 78
-bron: "NOS"
+author: "NOS"
 ---
 
 <p>Mathieu van der Poel heeft na de vierde ook de vijfde wereldbekerveldrit van het seizoen gewonnen. De wereldkampioen, die de eerste drie WB-wedstrijden aan zich voorbij liet gaan, was in de duinen van het Belgische Koksijde oppermachtig.</p>

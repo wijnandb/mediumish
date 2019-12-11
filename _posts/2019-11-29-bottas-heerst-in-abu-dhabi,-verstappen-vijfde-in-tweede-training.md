@@ -7,7 +7,7 @@ externe_link: "https://nos.nl/l/2312542"
 image: "https://nos.nl/data/image/2019/11/29/599435/1008x567.jpg"
 aantal: 314
 unieke: 187
-bron: "NOS"
+author: "NOS"
 ---
 
 <p>Valtteri Bottas heeft de eerste trainingen voor de Grand Prix van Abu Dhabi gedomineerd. De Fin van Mercedes was vrijdag in beide sessies de snelste.</p>

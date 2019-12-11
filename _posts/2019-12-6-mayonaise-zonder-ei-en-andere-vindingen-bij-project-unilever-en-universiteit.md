@@ -7,7 +7,7 @@ externe_link: "https://nos.nl/l/2313568"
 image: "https://nos.nl/data/image/2019/12/06/612011/1008x567.jpg"
 aantal: 307
 unieke: 192
-bron: "NOS"
+author: "NOS"
 ---
 
 <p>Unilever gaat nauwer samenwerken met de Wageningen Universiteit nu er een onderzoeksafdeling is geopend op het terrein van de universiteit. De bouw van het onderzoekscentrum kostte de multinational 85 miljoen euro.</p>

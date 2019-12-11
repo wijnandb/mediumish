@@ -7,7 +7,7 @@ externe_link: "https://nos.nl/l/2311104"
 image: "https://nos.nl/data/image/2019/11/19/594340/1008x567.jpg"
 aantal: 217
 unieke: 150
-bron: "NOS"
+author: "NOS"
 ---
 
 <p>De wielerwereld heeft oud-renner Raymond Poulidor de laatste eer bewezen. De uitvaart van de vorige week overleden Poulidor vond dinsdagochtend plaats in zijn woonplaats Saint-Leonard-de-Noblat, niet ver van Limoges.</p>

@@ -7,7 +7,7 @@ externe_link: "https://nos.nl/l/2313275"
 image: "https://nos.nl/data/image/2019/12/06/611945/1008x567.jpg"
 aantal: 769
 unieke: 434
-bron: "NOS"
+author: "NOS"
 ---
 
 <p>Het akkoord over het atoomprogramma van Iran, dat in 2015 werd gesloten, staat al een tijd op losse schroeven. Teheran voelt zich niet meer gehouden aan de nucleaire deal, die vorig jaar door de Amerikaanse president Donald Trump werd opgezegd.</p>

@@ -7,7 +7,7 @@ externe_link: "http://feeds.nos.nl/~r/nosnieuwskoningshuis/~3/rBQ1LurMwLQ/231360
 image: "https://nos.nl/data/image/2019/12/06/612083/1008x567.jpg"
 aantal: 158
 unieke: 118
-bron: "NOS"
+author: "NOS"
 ---
 
 <p>Sultan Qaboos bin Said Al Said van Oman komt naar België. Niet op staatsbezoek, maar voor een behandeling in het ziekenhuis van Leuven. De 79-jarige huurt daarom tot eind januari een volledig viersterrenhotel af.</p>

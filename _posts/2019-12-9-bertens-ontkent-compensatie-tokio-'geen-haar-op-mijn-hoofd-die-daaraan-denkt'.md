@@ -2,12 +2,12 @@
 layout: post
 title: "Bertens ontkent compensatie Tokio: 'Geen haar op mijn hoofd die daaraan denkt'"
 date: Mon, 09 Dec 2019 19:21:27 +0100
-category: sport_algemeen
-externe_link: "https://nos.nl/l/2314045"
+category: tennis
+externe_link: "http://feeds.nos.nl/~r/nossporttennis/~3/naVWV6bRhrc/2314045"
 image: "https://nos.nl/data/image/2019/12/09/612952/1008x567.jpg"
-aantal: 393
-unieke: 231
-bron: "NOS"
+aantal: 397
+unieke: 236
+author: "NOS"
 ---
 
 <p>Kiki Bertens heeft ontkend financiële compensatie te willen voor haar deelname aan de Olympische Spelen in Tokio. "Geen haar op mijn hoofd die daaraan denkt", benadrukt de Zuid-Hollandse in een reactie op haar Instagram-account.</p>
@@ -21,4 +21,4 @@ bron: "NOS"
 <p>Bertens is het er niet mee eens dat met het Volkskrant-artikel, dat de kop 'Bertens naar Tokio? Een dure grap' meekreeg, de indruk wordt gewekt dat financiën een belangrijke rol spelen in haar afweging om al dan niet te kiezen voor de Spelen.</p>
 <p>"Ik probeer zo min mogelijk te lezen wat er wordt geschreven over me, maar ik vind dat ik nu respectloos overkom naar de Olympische Spelen en de deelnemers. Dat is absoluut niet mijn bedoeling. De Olympische Spelen zijn een geweldig evenement en voor velen terecht een grote droom", aldus Bertens.</p>
 <p>"In het desbetreffende interview heb ik aangegeven dat het voor een tennisser net iets anders ligt. Het is voor mij persoonlijk ieder jaar al een hele klus om het individuele toernooischema van de WTA enigszins fris en scherp vol te houden tot en met het einde van het seizoen."</p>
-<p>Bertens meldde in het televisieprogramma Peptalk van Ziggo dat ze binnen twee weken een besluit neemt over deelname aan de Olympische Spelen.</p>
+<p>Bertens meldde in het televisieprogramma Peptalk van Ziggo dat ze binnen twee weken een besluit neemt over deelname aan de Olympische Spelen.</p><img src="http://feeds.feedburner.com/~r/nossporttennis/~4/naVWV6bRhrc" height="1" width="1" alt=""/>

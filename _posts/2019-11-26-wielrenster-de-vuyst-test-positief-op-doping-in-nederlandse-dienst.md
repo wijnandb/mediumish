@@ -7,7 +7,7 @@ externe_link: "https://nos.nl/l/2312167"
 image: "https://nos.nl/data/image/2019/11/26/596595/1008x567.jpg"
 aantal: 101
 unieke: 82
-bron: "NOS"
+author: "NOS"
 ---
 
 <p>De Belgische wielrenster Sofie De Vuyst, die in het afgelopen seizoen voor het Nederlandse team Parkhotel Valkenburg reed, is in september positief bevonden bij een dopingcontrole buiten wedstrijdverband.</p>

@@ -7,7 +7,7 @@ externe_link: "https://nos.nl/l/2313924"
 image: "https://nos.nl/data/image/2019/12/08/612540/1008x567.jpg"
 aantal: 697
 unieke: 381
-bron: "NOS"
+author: "NOS"
 ---
 
 <p>De laatste jaren vindt er na decennia stilstand ineens volop innovatie plaats in de fietsenbranche. Veel meer fietsen zijn tegenwoordig deels elektrisch aangedreven, en in steden is de deelfiets al een vast onderdeel van het straatbeeld.</p>

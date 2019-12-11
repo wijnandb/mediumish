@@ -7,7 +7,7 @@ externe_link: "http://feeds.nos.nl/~r/nosnieuwskoningshuis/~3/XaeFXdNMbfE/231086
 image: "https://nos.nl/data/image/2019/11/17/593889/1008x567.jpg"
 aantal: 577
 unieke: 332
-bron: "NOS"
+author: "NOS"
 ---
 
 <p>"Een van de meest verbazingwekkende interviews ooit" en "rampzalig en buitengewoon pijnlijk". In Groot-Brittannië is een stortvloed aan reacties gekomen op het spraakmakende interview met de Britse prins Andrew, dat gisteravond werd uitgezonden door de BBC.</p>

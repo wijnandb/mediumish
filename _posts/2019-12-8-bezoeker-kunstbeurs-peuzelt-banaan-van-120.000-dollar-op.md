@@ -7,7 +7,7 @@ externe_link: "https://nos.nl/l/2313797"
 image: "https://nos.nl/data/image/2019/12/08/612611/1008x567.jpg"
 aantal: 247
 unieke: 162
-bron: "NOS"
+author: "NOS"
 ---
 
 <p>Een kunstenaar heeft op een kunstbeurs in Miami consternatie veroorzaakt door een werk van een collega van de muur te halen en op te eten. Het gaat om een overrijpe banaan die met ducttape aan de muur was geplakt.</p>

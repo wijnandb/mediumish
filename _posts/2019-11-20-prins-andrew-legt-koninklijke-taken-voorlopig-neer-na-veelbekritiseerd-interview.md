@@ -7,7 +7,7 @@ externe_link: "http://feeds.nos.nl/~r/nosnieuwskoningshuis/~3/V2EcVIeKj2w/231131
 image: "https://nos.nl/data/image/2019/11/17/593889/1008x567.jpg"
 aantal: 477
 unieke: 268
-bron: "NOS"
+author: "NOS"
 ---
 
 <p>De Britse prins Andrew legt zijn koninklijke taken voorlopig neer. Hij zal de komende tijd geen openbare functies meer vervullen, schrijft hij in een verklaring.</p>

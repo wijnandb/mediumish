@@ -7,7 +7,7 @@ externe_link: "https://nos.nl/l/2312835"
 image: "https://nos.nl/data/image/2019/12/01/606698/1008x567.jpg"
 aantal: 270
 unieke: 176
-bron: "NOS"
+author: "NOS"
 ---
 
 <p>Lewis Hamilton heeft in Abu Dhabi de 21ste en laatste Formule 1-race van dit seizoen gewonnen. Alleen Max Verstappen kon de Britse Mercedes-rijder, die de wereldtitel al een maand binnen heeft, enigszins bijhouden. Hij sloot het jaar af met een tweede plaats.</p>

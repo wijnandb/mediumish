@@ -7,7 +7,7 @@ externe_link: "https://nos.nl/l/2312384"
 image: "https://nos.nl/data/image/2019/11/28/598075/1008x567.jpg"
 aantal: 150
 unieke: 104
-bron: "NOS"
+author: "NOS"
 ---
 
 <p>In aanloop naar de laatste race van het Formule 1-seizoen van 2019 is het deelnemersveld voor volgend jaar rond. Williams heeft bekendgemaakt dat de Canadees Nicholas Latifi een van de twee stoeltjes zal bezetten van de Britse renstal.</p>

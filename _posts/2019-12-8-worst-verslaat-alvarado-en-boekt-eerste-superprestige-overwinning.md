@@ -7,7 +7,7 @@ externe_link: "https://nos.nl/l/2313857"
 image: "https://nos.nl/data/image/2019/12/08/612584/1008x567.jpg"
 aantal: 235
 unieke: 163
-bron: "NOS"
+author: "NOS"
 ---
 
 <p>Annemarie Worst heeft in Zonhoven de vijfde veldrit in de Superprestigereeks op haar naam geschreven. In een sprint klopte ze Ceylin del Carmen Alvarado, die leidster blijft in het algemeen klassement.</p>

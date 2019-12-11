@@ -7,7 +7,7 @@ externe_link: "https://nos.nl/l/2314054"
 image: "https://nos.nl/data/image/2019/11/14/593053/1008x567.jpg"
 aantal: 204
 unieke: 146
-bron: "NOS"
+author: "NOS"
 ---
 
 <p>Nederland steunt Gambia in de zaak die het land heeft aangespannen bij het Internationaal Gerechtshof tegen Myanmar, vanwege volkerenmoord op de Rohingya. Minister Blok schrijft aan de Tweede Kamer dat hij samen met Canada "alle mogelijkheden van steun en assistentie" aan Gambia verkent.</p>

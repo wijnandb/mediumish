@@ -7,7 +7,7 @@ externe_link: "http://feeds.nos.nl/~r/nossporttennis/~3/tISgMVT3Szc/2312154"
 image: "https://nos.nl/data/image/2019/11/26/596563/1008x567.jpg"
 aantal: 518
 unieke: 300
-bron: "NOS"
+author: "NOS"
 ---
 
 <p>Het was een jaar van pieken en dalen voor Kiki Bertens. De pieken waren duidelijk: ze won het prestigieuze graveltoernooi van Madrid en bereikte de vierde plaats op de wereldranglijst. Een ongekend succes voor een Nederlandse tennisster.</p>

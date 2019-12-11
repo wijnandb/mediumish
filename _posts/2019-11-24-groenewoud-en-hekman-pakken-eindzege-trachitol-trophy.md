@@ -7,7 +7,7 @@ externe_link: "http://feeds.nos.nl/~r/nossportschaatsen/~3/6CvAKdsE0_o/2311864"
 image: "https://nos.nl/data/image/2019/11/24/595970/1008x567.jpg"
 aantal: 190
 unieke: 129
-bron: "NOS"
+author: "NOS"
 ---
 
 <p>Marathonschaatsers Marijke Groenewoud en Gary Hekman hebben in Groningen hun dominantie in de eerste wedstrijden om de Trachitol Trophy omgezet in een eindzege.</p>

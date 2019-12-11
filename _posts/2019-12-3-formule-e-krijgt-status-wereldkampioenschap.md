@@ -7,7 +7,7 @@ externe_link: "https://nos.nl/l/2313109"
 image: "https://nos.nl/data/image/2019/12/03/609712/1008x567.jpg"
 aantal: 142
 unieke: 105
-bron: "NOS"
+author: "NOS"
 ---
 
 <p>De Formule E wordt vanaf volgend seizoen (2020/2021) opgewaardeerd en krijgt de status van een officieel wereldkampioenschap. De internationale autosportfederatie FIA heeft dat bepaald.</p>

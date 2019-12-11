@@ -7,7 +7,7 @@ externe_link: "http://feeds.nos.nl/~r/nosnieuwskoningshuis/~3/JRCwJUjaEIY/231363
 image: "https://nos.nl/data/image/2019/12/07/612149/1008x567.jpg"
 aantal: 714
 unieke: 381
-bron: "NOS"
+author: "NOS"
 ---
 
 <p>Vandaag viert de kroonprinses haar zestiende verjaardag. Ze is duidelijk al doordrongen van haar toekomst. Toen ze hoorde dat haar vader koning werd, was haar eerste vraag aan hem: 'Hoeveel jaar ga jij het doen?', vertelde Willem-Alexander in een interview voorafgaand aan zijn inhuldiging. 'Zo van, dan kan ik alvast een streep zetten in mijn agenda'.</p>

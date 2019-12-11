@@ -7,7 +7,7 @@ externe_link: "https://nos.nl/l/2313302"
 image: "https://nos.nl/data/image/2019/12/04/611073/1008x567.jpg"
 aantal: 357
 unieke: 228
-bron: "NOS"
+author: "NOS"
 ---
 
 <p>Geld in geldautomaten moet bij een plofkraak compleet waardeloos worden gemaakt. De Nederlandse Vereniging van Banken (NVB) spreekt daar over met de Nederlandsche Bank (DNB), die strenge regels hanteert voor het vernietigen van geld.</p>

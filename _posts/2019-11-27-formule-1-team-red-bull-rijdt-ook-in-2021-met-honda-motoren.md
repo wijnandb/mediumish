@@ -7,7 +7,7 @@ externe_link: "https://nos.nl/l/2312230"
 image: "https://nos.nl/data/image/2019/11/27/596704/1008x567.jpg"
 aantal: 245
 unieke: 166
-bron: "NOS"
+author: "NOS"
 ---
 
 <p>Red Bull Racing heeft het contract met motorleverancier Honda met één jaar verlengd tot en met 2021. Het team van Max Verstappen vertrouwt daarmee ook na 2020, wanneer er nieuwe regels in de Formule 1 gaan gelden, op de Japanse krachtbron.</p>

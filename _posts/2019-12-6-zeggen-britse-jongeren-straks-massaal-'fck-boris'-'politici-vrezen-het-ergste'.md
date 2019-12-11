@@ -7,7 +7,7 @@ externe_link: "https://nos.nl/l/2313579"
 image: "https://nos.nl/data/image/2019/12/06/612030/1008x567.jpg"
 aantal: 746
 unieke: 410
-bron: "NOS"
+author: "NOS"
 ---
 
 <p>Nog zes dagen en dan gaan de Britten naar de stembus. De 19-jarige Milly Wright uit Uxbridge gaat dan voor het eerst stemmen. "Ik heb nog nooit gestemd bij de landelijke verkiezingen of bij referenda. Maar nu kan ik voor het eerst gebruikmaken van m'n stemrecht." En ze is zeker niet de enige jonge Brit die dat gaat doen.</p>

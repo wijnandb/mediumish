@@ -7,7 +7,7 @@ externe_link: "https://nos.nl/l/2312781"
 image: "https://nos.nl/data/image/2019/12/01/603076/1008x567.jpg"
 aantal: 757
 unieke: 432
-bron: "NOS"
+author: "NOS"
 ---
 
 <p>Hij was in de Formule 1 de eerste teamgenoot van Max Verstappen: Carlos Sainz sluit net als de Nederlander in Abu Dhabi zijn vijfde F1-seizoen af. Er valt nog iets te halen voor de 25-jarige Spanjaard, die door insiders als revelatie van het jaar wordt gezien. In een avondrace die weinig meer om het lijf heeft, kan de strijd Gasly-Sainz-Albon vonken opleveren.</p>

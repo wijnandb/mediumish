@@ -7,7 +7,7 @@ externe_link: "https://nos.nl/l/2313518"
 image: "https://nos.nl/data/image/2019/12/06/611897/1008x567.jpg"
 aantal: 116
 unieke: 84
-bron: "NOS"
+author: "NOS"
 ---
 
 <p>De Belastingdienst ziet een enorme toename van het aantal phishingberichten en waarschuwt de ontvangers om niet te betalen. In de e-mails en sms-berichten staat dat mensen direct een openstaande rekening van de Belastingdienst moeten voldoen.</p>

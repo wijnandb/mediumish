@@ -7,7 +7,7 @@ externe_link: "http://feeds.nos.nl/~r/nosnieuwskoningshuis/~3/JQrI_tuh9cA/230850
 image: "https://nos.nl/data/image/2019/10/31/588918/1008x567.jpg"
 aantal: 362
 unieke: 213
-bron: "NOS"
+author: "NOS"
 ---
 
 <p>De toekomstplannen voor paleis Soestdijk zijn onzeker nu de provincie Utrecht een woningbouwproject bij het paleis niet ziet zitten. De verkoop van die huizen is volgens de eigenaar noodzakelijk om de restauratie van het paleis te financieren.</p>

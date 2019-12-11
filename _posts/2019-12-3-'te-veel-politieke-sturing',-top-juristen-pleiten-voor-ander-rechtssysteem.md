@@ -7,7 +7,7 @@ externe_link: "https://nos.nl/l/2313193"
 image: "https://nos.nl/data/image/2019/12/04/610097/1008x567.jpg"
 aantal: 381
 unieke: 239
-bron: "NOS"
+author: "NOS"
 ---
 
 <p>Drie jaar lang wachten op een uitspraak van de rechter, rechters die op hun beurt het werk niet meer aankunnen. Het Nederlandse rechtssysteem staat onder druk. Het is voor twintig topjuristen reden om oplossingen te zoeken voor het vastgelopen systeem. Zo pleiten ze voor een staatscommissie onder leiding van een Deltacommissaris.</p>

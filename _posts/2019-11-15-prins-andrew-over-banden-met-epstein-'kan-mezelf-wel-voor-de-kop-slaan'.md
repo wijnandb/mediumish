@@ -7,7 +7,7 @@ externe_link: "http://feeds.nos.nl/~r/nosnieuwskoningshuis/~3/vfY_rvaCsfw/231065
 image: "https://nos.nl/data/image/2019/11/16/593429/1008x567.jpg"
 aantal: 241
 unieke: 154
-bron: "NOS"
+author: "NOS"
 ---
 
 <p>De Britse prins Andrew heeft voor het eerst gereageerd op zijn banden met de voor seksueel misbruik veroordeelde Amerikaanse multimiljonair Jeffrey Epstein. Op beelden is Andrew te zien terwijl hij in een van Epsteins huizen logeerde, jaren nadat die was veroordeeld. "Daarvoor kan ik mezelf wel voor de kop slaan", zegt de prins tegen de BBC.</p>

@@ -7,7 +7,7 @@ externe_link: "http://feeds.nos.nl/~r/nosnieuwskoningshuis/~3/d4eJQXcD6l8/230712
 image: "https://nos.nl/data/image/2019/10/21/586538/1008x567.jpg"
 aantal: 138
 unieke: 99
-bron: "NOS"
+author: "NOS"
 ---
 
 <p>De Thaise koning Maha Vajiralongkorn (Rama X) heeft zijn officiële minnares al haar militaire en koninklijke rangen en titels afgenomen. Volgens een verklaring van het paleis was de 34-jarige Sineenat Wongvajirapakdi te ambitieus en heeft ze geprobeerd dezelfde status als de koningin te bereiken.</p>

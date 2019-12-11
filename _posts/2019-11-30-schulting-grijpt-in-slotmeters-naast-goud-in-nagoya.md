@@ -7,7 +7,7 @@ externe_link: "http://feeds.nos.nl/~r/nossportschaatsen/~3/6TPKJsVqjIQ/2312639"
 image: "https://nos.nl/data/image/2019/11/30/601057/1008x567.jpg"
 aantal: 403
 unieke: 220
-bron: "NOS"
+author: "NOS"
 ---
 
 <p>Shorttrackster Suzanne Schulting is bij de wereldbekerwedstrijden in het Japanse Nagoya als tweede geëindigd op de 1.000 meter.</p>

@@ -7,7 +7,7 @@ externe_link: "https://nos.nl/l/2312584"
 image: "https://nos.nl/data/image/2019/11/29/599663/1008x567.jpg"
 aantal: 114
 unieke: 79
-bron: "NOS"
+author: "NOS"
 ---
 
 <p>De Nederlandse teamsprinters hebben ook bij de derde wereldbekerwedstrijd van het seizoen een gouden medaille veroverd. De baanwielrenners waren in de finale in Hongkong te sterk voor Duitsland.</p>

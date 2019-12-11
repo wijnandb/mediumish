@@ -7,7 +7,7 @@ externe_link: "http://feeds.nos.nl/~r/nossportschaatsen/~3/6NyZIQkOyIo/2313655"
 image: "https://nos.nl/data/image/2019/12/07/612185/1008x567.jpg"
 aantal: 234
 unieke: 148
-bron: "NOS"
+author: "NOS"
 ---
 
 <p>Suzanne Schulting heeft bij de wereldbekerstrijd in Shanghai zilver gewonnen op de 500 meter. De Nederlandse shorttrackster moest in de finale de dit seizoen ongenaakbare Kim Boutin voor laten gaan. Yara van Kerkhof werd vijfde en Lara van Ruijven achtste.</p>

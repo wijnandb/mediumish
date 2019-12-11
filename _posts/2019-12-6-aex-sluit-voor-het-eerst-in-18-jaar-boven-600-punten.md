@@ -7,7 +7,7 @@ externe_link: "https://nos.nl/l/2313566"
 image: "https://nos.nl/data/image/2019/12/06/612009/1008x567.jpg"
 aantal: 431
 unieke: 270
-bron: "NOS"
+author: "NOS"
 ---
 
 <p>De Amsterdamse AEX-index is vrijdag gesloten boven de grens van 600 punten met 602,3 punten. Dat is voor het eerst sinds 2001.</p>

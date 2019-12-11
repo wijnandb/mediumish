@@ -7,7 +7,7 @@ externe_link: "https://www.jeugdjournaal.nl/l/2313884"
 image: "https://nos.nl/data/image/2019/12/08/612646/1008x567.jpg"
 aantal: 82
 unieke: 66
-bron: "NOS"
+author: "NOS"
 ---
 
 <p>Een Amerikaanse site schrijft dat de Amerikaanse rapper Juice WRLD is overleden. De rapper was pas 21 jaar.</p>

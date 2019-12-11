@@ -7,7 +7,7 @@ externe_link: "https://nos.nl/l/2314001"
 image: "https://nos.nl/data/image/2019/12/09/612880/1008x567.jpg"
 aantal: 253
 unieke: 171
-bron: "NOS"
+author: "NOS"
 ---
 
 <p>Jeroen Pauw stopt over twee weken met zijn talkshow Pauw. Hij blijft wel bij BNNVARA, maar laat op Instagram weten dat hij in 2020 andere dingen gaat doen.</p>

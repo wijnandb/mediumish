@@ -7,7 +7,7 @@ externe_link: "http://feeds.nos.nl/~r/nosnieuwskoningshuis/~3/DGBoMansNaU/230895
 image: "https://nos.nl/data/image/2019/11/03/589916/1008x567.jpg"
 aantal: 268
 unieke: 177
-bron: "NOS"
+author: "NOS"
 ---
 
 <p>De Spaanse koning Felipe heeft een onrustige nacht gehad. Bij zijn hotel in Barcelona verzamelden zich gisteravond honderden demonstranten, van wie een aantal lawaai maakte met potten, pannen en fluitjes.</p>

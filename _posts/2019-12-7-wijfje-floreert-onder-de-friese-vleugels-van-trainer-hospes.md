@@ -7,7 +7,7 @@ externe_link: "http://feeds.nos.nl/~r/nossportschaatsen/~3/peYwoQTOPxY/2313644"
 image: "https://nos.nl/data/image/2019/12/07/612162/1008x567.jpg"
 aantal: 178
 unieke: 128
-bron: "NOS"
+author: "NOS"
 ---
 
 <p>Melissa Wijfje beleefde een goed begin van het schaatsseizoen met drie startbewijzen voor de wereldbekers. Haar ontwikkeling vanaf de junioren naar de top van de senioren ging echter niet in één rechte lijn omhoog.</p>

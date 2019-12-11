@@ -2,12 +2,12 @@
 layout: post
 title: "Uitgeschakeld worden met tien punten, Ajax zou niet de eerste zijn"
 date: Tue, 10 Dec 2019 06:46:54 +0100
-category: sport_algemeen
+category: voetbal
 externe_link: "https://nos.nl/l/2314078"
 image: "https://nos.nl/data/image/2019/12/10/613021/1008x567.jpg"
 aantal: 494
 unieke: 304
-bron: "NOS"
+author: "NOS"
 ---
 
 <p>Het is een horrorscenario voor Ajax: overladen worden met complimenten en punten, maar uiteindelijk toch worden uitgeschakeld in de groepsfase van de Champions League. </p>

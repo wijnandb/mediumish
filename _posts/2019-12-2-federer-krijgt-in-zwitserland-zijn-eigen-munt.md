@@ -7,7 +7,7 @@ externe_link: "http://feeds.nos.nl/~r/nossporttennis/~3/wOjZca7vk8U/2313025"
 image: "https://nos.nl/data/image/2019/12/02/609319/1008x567.jpg"
 aantal: 85
 unieke: 61
-bron: "NOS"
+author: "NOS"
 ---
 
 <p>Roger Federer wordt de eerste nog levende sporter die in Zwitserland een eigen munt krijgt. De twintigvoudig grandslamkampioen wordt door de Zwitserse bank geëerd met een speciale munt, vanwege zijn uitzonderlijke prestaties als tennisser en zijn verdiensten als ambassadeur van het land.</p>

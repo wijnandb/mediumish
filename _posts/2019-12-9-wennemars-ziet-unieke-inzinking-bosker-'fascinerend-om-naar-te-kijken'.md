@@ -7,7 +7,7 @@ externe_link: "http://feeds.nos.nl/~r/nossportschaatsen/~3/k_WeoLab2oE/2313947"
 image: "https://nos.nl/data/image/2019/12/09/612763/1008x567.jpg"
 aantal: 576
 unieke: 324
-bron: "NOS"
+author: "NOS"
 ---
 
 <p>Oud-schaatser en NOS-analist Erben Wennemars heeft zo ongeveer alles wel meegemaakt in de schaatswereld, maar wat hij zaterdag op het ijs zag gebeuren, was ook voor hem uniek.</p>

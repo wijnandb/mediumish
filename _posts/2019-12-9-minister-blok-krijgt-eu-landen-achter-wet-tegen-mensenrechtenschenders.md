@@ -7,7 +7,7 @@ externe_link: "https://nos.nl/l/2314014"
 image: "https://nos.nl/data/image/2019/12/09/612901/1008x567.jpg"
 aantal: 364
 unieke: 224
-bron: "NOS"
+author: "NOS"
 ---
 
 <p>Personen die zich hebben schuldig gemaakt aan mensenrechtenschendingen moet de toegang tot de Europese Unie ontzegd worden. Ook eventuele tegoeden die ze hebben, moeten sneller bevroren kunnen worden. De Europese Commissie gaat daartoe een wetsvoorstel schrijven op verzoek van de lidstaten. Deze schaarden zich vandaag unaniem achter een voorstel van Nederland.</p>

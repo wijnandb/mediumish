@@ -7,7 +7,7 @@ externe_link: "https://nos.nl/l/2313844"
 image: "https://nos.nl/data/image/2019/12/08/612554/1008x567.jpg"
 aantal: 473
 unieke: 278
-bron: "NOS"
+author: "NOS"
 ---
 
 <p>Nog steeds steken Nederlandse financiële instellingen wereldwijd geld in de bouw van nieuwe steenkolencentrales. Dat gebeurt ondanks oproepen om te stoppen met het gebruik van steenkool om energie op te wekken. Het verbranden van steenkool moet in 2030 met 78 procent zijn verminderd om het doel van niet meer dan 1,5 graad opwarming van de aarde te kunnen halen, heeft het klimaatpanel IPCC vastgesteld.</p>

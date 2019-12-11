@@ -21,7 +21,7 @@ layout: default
                     <small>
                         <span class="post-date"><time class="post-date" datetime="{{ page.date | date:"%Y-%m-%d" }}">{{ page.date | date_to_string }}</time></span>           
                         {% if page.last_modified_at %}
-                        (Updated: <time datetime="{{ page.last_modified_at | date_to_xmlschema }}" itemprop="dateModified">{{ page.last_modified_at | date: "%b %-d, %Y" }}</time>)
+                        (Updated: <time datetime="{{ page.last_modified_at | date_to_xmlschema }}" itemprop="dateModified">{{ page.last_modified_at | date: "%-d %b %Y" }}</time>)
                         {% endif %}
                         </small>
                     </p>
@@ -31,9 +31,9 @@ layout: default
                         <ul class="tags mb-4">
                             {% assign sortedCategories = page.categories | sort %}
                             {% for category in sortedCategories %}
-                            <li>
-                                <a class="smoothscroll" href="{{site.baseurl}}/{{ category | replace: " ","-" }}">{{ category }}</a>
-                            </li>
+                                <li>
+                                    <a class="smoothscroll" href="{{site.baseurl}}/{{ category | replace: " ","-" }}">{{ category }}</a>
+                                </li>
                             {% endfor %}
                         </ul>
                     </div>

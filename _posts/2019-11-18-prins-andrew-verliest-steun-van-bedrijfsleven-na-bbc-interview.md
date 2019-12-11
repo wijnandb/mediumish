@@ -7,7 +7,7 @@ externe_link: "http://feeds.nos.nl/~r/nosnieuwskoningshuis/~3/QeJBIkpQaWI/231105
 image: "https://nos.nl/data/image/2019/11/18/594219/1008x567.jpg"
 aantal: 239
 unieke: 161
-bron: "NOS"
+author: "NOS"
 ---
 
 <p>De internationale accountants- en adviesorganisatie KPMG wil de Britse prins Andrew niet langer sponsoren. Ook verzekeringsmakelaar Aon heeft aan de Financial Times laten weten afstand te nemen van de prins. Volgens de krant willen de bedrijven hun eigen reputatie beschermen nu er veel controverse is over de band tussen prins Andrew en de veroordeelde zedendelinquent Jeffrey Epstein.</p>

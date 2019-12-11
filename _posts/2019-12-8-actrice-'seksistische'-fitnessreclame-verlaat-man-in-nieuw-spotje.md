@@ -7,7 +7,7 @@ externe_link: "https://nos.nl/l/2313793"
 image: "https://nos.nl/data/image/2019/12/08/612462/1008x567.jpg"
 aantal: 382
 unieke: 239
-bron: "NOS"
+author: "NOS"
 ---
 
 <p>Seksistisch, vrouwonvriendelijk, een gijzelingssituatie, een mislukte aflevering van Black Mirror. Een reclame voor de hometrainer Peloton was deze week mikpunt van spot en afkeur. Maar met de vrouw uit de commercial lijkt het inmiddels beter te gaan.</p>

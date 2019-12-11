@@ -7,7 +7,7 @@ externe_link: "https://nos.nl/l/2312119"
 image: "https://nos.nl/data/image/2019/11/26/596493/1008x567.jpg"
 aantal: 301
 unieke: 188
-bron: "NOS"
+author: "NOS"
 ---
 
 <p>Wout van Aert hoeft geen schadevergoeding te betalen naar aanleiding van zijn contractbreuk met Roompot-Charles. Dat oordeelde de rechtbank van Mechelen dinsdagmiddag. Van Aert rijdt sinds dit seizoen voor Jumbo-Visma, maar voor hij die overstap kon maken moest hij eerst zijn contract bij zijn Belgische ploeg verbreken.</p>

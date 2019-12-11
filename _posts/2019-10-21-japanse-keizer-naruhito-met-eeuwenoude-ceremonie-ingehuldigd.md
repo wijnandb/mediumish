@@ -7,7 +7,7 @@ externe_link: "http://feeds.nos.nl/~r/nosnieuwskoningshuis/~3/_A_wtB1FTfk/230715
 image: "https://nos.nl/data/image/2019/10/22/586618/1008x567.jpg"
 aantal: 332
 unieke: 217
-bron: "NOS"
+author: "NOS"
 ---
 
 <p>Met een eeuwenoude ceremonie heeft de Japanse keizer Naruhito (59) officieel de troon aanvaard. Hij werd ingehuldigd in de grote staatszaal van het Keizerlijk Paleis in Tokio. Daarbij waren staatshoofden en gasten uit meer dan 180 landen aanwezig.</p>

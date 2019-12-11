@@ -7,7 +7,7 @@ externe_link: "https://nos.nl/l/2312554"
 image: "https://nos.nl/data/image/2019/11/29/599059/1008x567.jpg"
 aantal: 327
 unieke: 216
-bron: "NOS"
+author: "NOS"
 ---
 
 <p>Bij een internationale politieactie zijn meerdere verkopers en gebruikers van een gevaarlijke hacktool opgepakt. Met de tool konden hackers de computers van vele duizenden slachtoffers volledig overnemen en controleren. Het programma is offline gehaald.</p>

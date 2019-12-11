@@ -7,7 +7,7 @@ externe_link: "http://feeds.nos.nl/~r/nossportschaatsen/~3/WrVAB0NvdE8/2313522"
 image: "https://nos.nl/data/image/2019/12/06/612006/1008x567.jpg"
 aantal: 395
 unieke: 247
-bron: "NOS"
+author: "NOS"
 ---
 
 <p>De Nederlandse teamsprinters hebben ook de derde wereldbekerwedstrijd van het schaatsseizoen gewonnen. In het Kazachse Nur-Sultan veroverden Ronald Mulder, Kai Verbij en Thomas Krol de derde gouden medaille voor Nederland in de wereldbeker.</p>

@@ -7,7 +7,7 @@ externe_link: "https://nos.nl/l/2313246"
 image: "https://nos.nl/data/image/2019/12/04/610526/1008x567.jpg"
 aantal: 663
 unieke: 376
-bron: "NOS"
+author: "NOS"
 ---
 
 <p>Toen Larry Page en Sergey Brin in de zomer van 2015 bekendmaakten de dagelijkse leiding van Google over te dragen aan Sundar Pichai, zag de situatie er bij het bedrijf anders uit dan nu. Er waren nog geen grote problemen met nepnieuws, haatzaaiende content op YouTube was toen nog niet zo'n belangrijk onderwerp als nu en er waren nog geen Europese miljardenboetes uitgedeeld.</p>

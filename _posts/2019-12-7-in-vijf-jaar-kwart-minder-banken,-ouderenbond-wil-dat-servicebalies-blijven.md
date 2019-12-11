@@ -7,7 +7,7 @@ externe_link: "https://nos.nl/l/2313726"
 image: "https://nos.nl/data/image/2019/12/07/612334/1008x567.jpg"
 aantal: 346
 unieke: 212
-bron: "NOS"
+author: "NOS"
 ---
 
 <p>Sinds begin 2015 is het aantal bankfilialen met een kwart afgenomen. Dat blijkt uit cijfers van marktonderzoeker Locatus, opgevraagd door Nieuwsuur. In januari 2015 hadden banken in Nederland nog 1832 vestigingen, nu zijn dat er nog 1380.</p>

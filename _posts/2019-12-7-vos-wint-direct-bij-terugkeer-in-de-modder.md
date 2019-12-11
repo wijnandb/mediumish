@@ -7,7 +7,7 @@ externe_link: "https://nos.nl/l/2313696"
 image: "https://nos.nl/data/image/2019/12/07/612261/1008x567.jpg"
 aantal: 151
 unieke: 115
-bron: "NOS"
+author: "NOS"
 ---
 
 <p>Marianne Vos heeft haar rentree als veldrijdster opgeluisterd met een zege. De zevenvoudig wereldkampioene won in Essen met overmacht de Ethias Cross.</p>

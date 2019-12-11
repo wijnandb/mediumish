@@ -7,7 +7,7 @@ externe_link: "http://feeds.nos.nl/~r/nossportschaatsen/~3/7xk8nGqkXJs/2312777"
 image: "https://nos.nl/data/image/2019/12/01/603317/1008x567.jpg"
 aantal: 288
 unieke: 194
-bron: "NOS"
+author: "NOS"
 ---
 
 <p>Suzanne Schulting heeft in Nagoya bij de wereldbekerwedstrijden de tweede 1.500 meter van het weekend op haar naam geschreven. De Nederlandse, zaterdag nog tweede op de 1.000 meter, bleef Courtney Lee Sarault nipt voor.</p>

@@ -2,12 +2,12 @@
 layout: post
 title: "Hoger risico op witwassen, dan soms meer betalen bij Rabobank"
 date: Tue, 10 Dec 2019 07:46:58 +0100
-category: nieuws
+category: financieel
 externe_link: "https://nos.nl/l/2314086"
-image: "https://nos.nl/data/image/2019/11/22/595202/1008x567.jpg"
-aantal: 513
-unieke: 288
-bron: "NOS"
+image: "https://nos.nl/data/image/2019/12/10/613081/1008x567.jpg"
+aantal: 545
+unieke: 299
+author: "NOS"
 ---
 
 <p>De Rabobank onderzoekt of zakelijke klanten in een sector met een hoog risico op witwassen hogere tarieven moeten betalen dan andere klanten. Voor enkele bedrijven in de trustsector doet de bank dit al.</p>
@@ -23,7 +23,7 @@ bron: "NOS"
 <p>Zo is wettelijk vastgelegd dat prominente politici automatisch een hoog risicoprofiel hebben.</p>
 <p>Bij invloedrijke mensen kan meespelen dat ze mogelijk een doelwit zijn voor omkoping. Daarbij speelt witwassen ook een rol, omdat corruptie illegaal is en de geldstroom dus op een of andere manier verdoezeld zal moeten worden.</p>
 <p>Maar een hoog risico wil dus niet zeggen dat er daadwerkelijk iets mis is.</p>
-<p>ABN Amro laat weten geen verschillende tarieven te rekenen voor klanten met verschillende risicoprofielen.</p>
+<p>ABN Amro rekent nog geen hogere tarieven, maar vindt het een interessant idee. De bank wijst op de hoge kosten die met de controles gepaard gaan. ING rekent al langer hogere tarieven voor bedrijven uit de trustsector, voor andere sectoren overweegt de bank geen hogere tarieven.</p>
 <h2>Boete en dwangsom</h2>
 <p>Vorig jaar kreeg de Rabobank een boete van ruim 1 miljoen euro opgelegd van toezichthouder De Nederlandsche Bank, omdat de systemen om alle klantendossiers op orde te hebben niet goed genoeg waren. Zo ontbrak er belangrijke informatie over klanten.</p>
 <p>Afgelopen maand werd duidelijk dat de bank bovendien een last onder dwangsom opgelegd heeft gekregen. Het controlesysteem zou inmiddels wel op orde zijn, maar niet alle klantendossiers zijn al door het verscherpte systeem gehaald, zegt de Rabobank.</p>

@@ -7,7 +7,7 @@ externe_link: "https://nos.nl/l/2313723"
 image: "https://nos.nl/data/image/2019/12/07/612323/1008x567.jpg"
 aantal: 195
 unieke: 124
-bron: "NOS"
+author: "NOS"
 ---
 
 <p>De boerenactie om het nummer De boer dat is de keerl van Normaal uit 1982 hoog in de Top 2000 van NPO Radio 2 te krijgen, is een succes geworden. Het nummer komt binnen op plek 9 in de ranglijst, die eind deze maand op de publieke radiozender wordt uitgezonden.</p>

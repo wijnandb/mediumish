@@ -7,7 +7,7 @@ externe_link: "http://feeds.nos.nl/~r/nossportschaatsen/~3/2X9dXyo-hTQ/2311831"
 image: "https://nos.nl/data/image/2019/11/24/596002/1008x567.jpg"
 aantal: 440
 unieke: 277
-bron: "NOS"
+author: "NOS"
 ---
 
 <p>Patrick Roest, Douwe de Vries en Marcel Bosker hebben bij de wereldbekerwedstrijden in het Poolse Tomaszów de ploegenachtervolging gewonnen. Het Nederlandse trio won het goud in een baanrecord: 3.45,69.</p>

@@ -2,12 +2,12 @@
 layout: post
 title: "Arsenal stapt na zes weken weer eens als winnaar van het veld"
 date: Mon, 09 Dec 2019 23:16:31 +0100
-category: sport_algemeen
+category: voetbal
 externe_link: "https://nos.nl/l/2314067"
 image: "https://nos.nl/data/image/2019/12/09/612994/1008x567.jpg"
 aantal: 232
 unieke: 161
-bron: "NOS"
+author: "NOS"
 ---
 
 <p>Arsenal is er eindelijk in geslaagd om de negatieve reeks van wedstrijden zonder overwinning (inclusief duels in de Europa League waren het er negen) te doorbreken. In de Londense derby tegen West Ham United wonnen de 'Gunners' met 3-1.</p>

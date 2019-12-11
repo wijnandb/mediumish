@@ -7,7 +7,7 @@ externe_link: "https://nos.nl/l/2313902"
 image: "https://nos.nl/data/image/2019/12/08/612681/1008x567.jpg"
 aantal: 699
 unieke: 385
-bron: "NOS"
+author: "NOS"
 ---
 
 <p>Het Nederlandse brandweerstelsel moet radicaal veranderen. Het huidige stelsel waarin beroepsbrandweermensen en vrijwilligers hetzelfde werk doen en opgeleid zijn, is in strijd met Europese regels die stellen dat gelijke arbeid gelijk beloond moet worden. Als de brandweer in de huidige vorm behouden blijft, moeten alle vrijwilligers als deeltijdwerknemers worden aangemerkt.</p>

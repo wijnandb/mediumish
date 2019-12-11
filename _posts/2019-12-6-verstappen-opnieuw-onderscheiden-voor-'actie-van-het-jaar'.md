@@ -7,7 +7,7 @@ externe_link: "https://nos.nl/l/2313630"
 image: "https://nos.nl/data/image/2019/12/07/612166/1008x567.jpg"
 aantal: 111
 unieke: 82
-bron: "NOS"
+author: "NOS"
 ---
 
 <p>Max Verstappen heeft voor de vierde keer in zijn racecarrière de prijs voor de beste actie van het jaar in de wacht gesleept. Net als in 2014 (als Formule 3-coureur), 2015 en 2016 kozen autosportliefhebbers over de hele wereld voor een inhaalactie van de Nederlander.</p>

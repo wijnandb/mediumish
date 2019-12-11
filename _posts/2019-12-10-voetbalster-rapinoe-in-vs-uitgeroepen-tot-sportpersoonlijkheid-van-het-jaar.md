@@ -2,15 +2,15 @@
 layout: post
 title: "Voetbalster Rapinoe in VS uitgeroepen tot sportpersoonlijkheid van het jaar"
 date: Tue, 10 Dec 2019 01:47:03 +0100
-category: nieuws
+category: voetbal
 externe_link: "https://nos.nl/l/2314069"
 image: "https://nos.nl/data/image/2019/12/10/612996/1008x567.jpg"
-aantal: 199
-unieke: 131
-bron: "NOS"
+aantal: 186
+unieke: 124
+author: "NOS"
 ---
 
-<p>De Amerikaanse voetbalster Megan Rapinoe is door sportmagazine Sports Illustrated uitgeroepen tot sportpersoonlijkheid van het jaar. Ze is pas de vierde vrouw in 66 jaar die de prestigieuze uitverkiezing wint.</p>
+<p>De Amerikaanse voetbalster Megan Rapinoe is door sportmagazine Sports Illustrated uitgeroepen tot sportpersoonlijkheid van het jaar. </p>
 <p>Volgens de jury domineerde de 34-jarige Rapinoe dit jaar "een wereldsport op een wereldtoneel, terwijl ze werd aangevallen door een wereldleider".</p>
 <h2>Ruzie met Trump</h2>
 <p>Daarmee doelde het blad op de ruzie tussen Rapinoe en de Amerikaanse president Trump, terwijl ze bezig was op het WK haar land als aanvoerder naar de wereldtitel te leiden.</p>

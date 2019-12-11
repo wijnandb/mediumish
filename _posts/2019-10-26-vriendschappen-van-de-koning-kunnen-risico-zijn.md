@@ -7,7 +7,7 @@ externe_link: "http://feeds.nos.nl/~r/nosnieuwskoningshuis/~3/Ja9YmTiJtFg/230770
 image: "https://nos.nl/data/image/2019/10/26/587519/1008x567.jpg"
 aantal: 491
 unieke: 274
-bron: "NOS"
+author: "NOS"
 ---
 
 <p>Het is voor Willem-Alexander en Máxima niet verstandig vrienden te hebben met een uitgesproken politiek profiel. Voor zijn geloofwaardigheid als koning van álle Nederlanders is het belangrijk dat Willem-Alexander boven de partijen staat. Het is niet voor niets dat de koning wel stemrecht heeft, maar nooit stemt.</p>

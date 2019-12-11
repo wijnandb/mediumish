@@ -7,7 +7,7 @@ externe_link: "https://nos.nl/l/2312430"
 image: "https://nos.nl/data/image/2019/11/28/598454/1008x567.jpg"
 aantal: 545
 unieke: 321
-bron: "NOS"
+author: "NOS"
 ---
 
 <p>Na de prachtige zege van Max Verstappen in Brazilië, twee weken geleden, zijn zeker bij de buitenwacht de verwachtingen hooggespannen voor de laatste race van het Formule 1-seizoen: de Grand Prix van Abu Dhabi van komende zondag. Maar Verstappen zelf is er als de kippen bij om een kanttekening te plaatsen.</p>

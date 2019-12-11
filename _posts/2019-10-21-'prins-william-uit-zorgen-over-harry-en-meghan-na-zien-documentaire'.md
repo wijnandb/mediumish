@@ -7,7 +7,7 @@ externe_link: "http://feeds.nos.nl/~r/nosnieuwskoningshuis/~3/EFt9VuyLWgo/230714
 image: "https://nos.nl/data/image/2019/10/21/586560/1008x567.jpg"
 aantal: 318
 unieke: 195
-bron: "NOS"
+author: "NOS"
 ---
 
 <p>Prins William is "bezorgd" om zijn broer Harry en diens vrouw Meghan. Na het zien van de documentaire Harry and Meghan: An African Journey hoopt William dat het goed met hen gaat, zegt een bron in het koningshuis volgens de BBC.</p>

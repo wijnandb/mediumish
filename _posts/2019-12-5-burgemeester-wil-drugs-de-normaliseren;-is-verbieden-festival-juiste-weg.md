@@ -7,7 +7,7 @@ externe_link: "https://nos.nl/l/2313451"
 image: "https://nos.nl/data/image/2019/12/05/611631/1008x567.jpg"
 aantal: 165
 unieke: 122
-bron: "NOS"
+author: "NOS"
 ---
 
 <p>De gemeente Hellendoorn besloot deze week om het Hardshock Festival te verbieden. Na afloop van de vorige editie van het festival waren twintig gecontroleerde festivalgangers met drugs op achter het stuur gaan zitten.</p>

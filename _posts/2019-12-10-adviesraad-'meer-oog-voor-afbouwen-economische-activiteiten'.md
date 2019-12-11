@@ -2,12 +2,12 @@
 layout: post
 title: "Adviesraad: 'Meer oog voor afbouwen economische activiteiten'"
 date: Tue, 10 Dec 2019 06:28:19 +0100
-category: nieuws
+category: financieel
 externe_link: "https://nos.nl/l/2314077"
 image: "https://nos.nl/data/image/2019/12/10/613012/1008x567.jpg"
 aantal: 171
 unieke: 126
-bron: "NOS"
+author: "NOS"
 ---
 
 <p>Hoe moet een duurzame samenleving eruitzien? Een samenhangende visie hierop ontbreekt bij de Nederlandse overheid, oordeelt de Raad voor de leefomgeving en infrastructuur (Rli) in een advies aan het kabinet.</p>

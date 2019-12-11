@@ -7,7 +7,7 @@ externe_link: "https://nos.nl/l/2312896"
 image: "https://nos.nl/data/image/2019/12/01/608382/1008x567.jpg"
 aantal: 216
 unieke: 149
-bron: "NOS"
+author: "NOS"
 ---
 
 <p>De Franse wielrenner Julian Alaphilippe heeft zondag de Vélo d'Or gewonnen, de prijs die jaarlijks wordt uitgereikt aan de beste wielrenner van het jaar. Hij kreeg de voorkeur boven de Colombiaanse Tourwinnaar Egan Bernal en de Sloveense Vueltawinnaar Primoz Roglic.</p>

@@ -7,7 +7,7 @@ externe_link: "https://nos.nl/l/2313658"
 image: "https://nos.nl/data/image/2019/12/07/612188/1008x567.jpg"
 aantal: 163
 unieke: 119
-bron: "NOS"
+author: "NOS"
 ---
 
 <p>De Zweedse telecomgigant Ericsson heeft een schikking getroffen van meer dan 1 miljard dollar met justitie in de Verenigde Staten.</p>

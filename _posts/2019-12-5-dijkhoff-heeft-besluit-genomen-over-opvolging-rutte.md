@@ -7,7 +7,7 @@ externe_link: "https://nos.nl/l/2313406"
 image: "https://nos.nl/data/image/2019/12/05/611487/1008x567.jpg"
 aantal: 253
 unieke: 146
-bron: "NOS"
+author: "NOS"
 ---
 
 <p>VVD-fractievoorzitter Klaas Dijkhoff zegt dat hij al een besluit heeft genomen over de vraag of hij de nummer één van zijn partij wil worden. Dijkhoff stelt dat de commotie over zijn wachtgeld en fouten met een vergoeding van afgelopen week niks aan zijn besluit verandert.</p>

@@ -7,7 +7,7 @@ externe_link: "https://nos.nl/l/2313784"
 image: "https://nos.nl/data/image/2019/12/08/612446/1008x567.jpg"
 aantal: 164
 unieke: 104
-bron: "NOS"
+author: "NOS"
 ---
 
 <p>De film The Favourite heeft de meeste prijzen gewonnen bij de European Film Awards. Het kostuumdrama werd in Berlijn uitgeroepen tot beste Europese film en de Griekse regisseur Yorgos Lanthimos kreeg de prijs voor beste regisseur.</p>

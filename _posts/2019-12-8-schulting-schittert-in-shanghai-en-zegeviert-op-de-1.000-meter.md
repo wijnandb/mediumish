@@ -7,7 +7,7 @@ externe_link: "http://feeds.nos.nl/~r/nossportschaatsen/~3/gbdeQihrquA/2313813"
 image: "https://nos.nl/data/image/2019/12/08/612504/1008x567.jpg"
 aantal: 313
 unieke: 184
-bron: "NOS"
+author: "NOS"
 ---
 
 <p>Bij de wereldbekerwedstrijden shorttrack in het Chinese Shanghai heeft Suzanne Schulting op prachtige wijze goud veroverd op de 1.000 meter.</p>

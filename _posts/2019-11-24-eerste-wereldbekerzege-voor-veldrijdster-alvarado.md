@@ -7,7 +7,7 @@ externe_link: "https://nos.nl/l/2311822"
 image: "https://nos.nl/data/image/2019/11/24/596011/1008x567.jpg"
 aantal: 190
 unieke: 140
-bron: "NOS"
+author: "NOS"
 ---
 
 <p>Ceylin del Carmen Alvarado heeft haar eerste wereldbekerzege als veldrijdster binnen. De 21-jarige Nederlandse zegevierde zondag in de duinen bij Koksijde.</p>

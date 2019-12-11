@@ -7,7 +7,7 @@ externe_link: "https://nos.nl/l/2313877"
 image: "https://nos.nl/data/image/2019/12/08/612624/1008x567.jpg"
 aantal: 220
 unieke: 145
-bron: "NOS"
+author: "NOS"
 ---
 
 <p>RTL heeft een week te vroeg een promotiefilmpje uitgezonden voor de finale van het programma Expeditie Robinson. Daardoor heeft de zender verklapt welke deelnemers vanavond, in de halve finale, afvallen.</p>

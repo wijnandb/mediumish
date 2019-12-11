@@ -7,7 +7,7 @@ externe_link: "https://nos.nl/l/2311331"
 image: "https://nos.nl/data/image/2019/11/20/594888/1008x567.jpg"
 aantal: 521
 unieke: 305
-bron: "NOS"
+author: "NOS"
 ---
 
 <p>Mathieu van der Poel en Annemiek van Vleuten zijn bij het Wielergala in Den Bosch verkozen tot Wielrenner en Wielrenster van het Jaar. Lorena Wiebes is het Talent van het Jaar.</p>

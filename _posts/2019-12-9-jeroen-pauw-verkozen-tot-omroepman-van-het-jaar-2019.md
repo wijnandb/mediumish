@@ -7,7 +7,7 @@ externe_link: "https://nos.nl/l/2314035"
 image: "https://nos.nl/data/image/2019/12/09/612938/1008x567.jpg"
 aantal: 198
 unieke: 136
-bron: "NOS"
+author: "NOS"
 ---
 
 <p>Talkshow-gastheer Jeroen Pauw is verkozen tot Omroepman van het Jaar 2019. Dat maakte Pauws collega bij RTL, Beau van Erven Dorens, vanmiddag bekend in Beeld en Geluid in Hilversum.</p>

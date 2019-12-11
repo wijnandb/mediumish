@@ -2,12 +2,12 @@
 layout: post
 title: "Ten Hag kan Onana opstellen, maar moet Promes missen tegen Valencia"
 date: Mon, 09 Dec 2019 16:02:25 +0100
-category: sport_algemeen
+category: voetbal
 externe_link: "https://nos.nl/l/2314017"
 image: "https://nos.nl/data/image/2019/12/09/612906/1008x567.jpg"
 aantal: 327
 unieke: 205
-bron: "NOS"
+author: "NOS"
 ---
 
 <p>Quincy Promes kan niet meedoen in het voor Ajax cruciale Champions League-duel met Valencia, dinsdagavond. De vleugelaanvaller, topscorer van Ajax in de Champions League, is niet fit bevonden door de medische staf. Keeper André Onana, over wiens meespelen eveneens twijfels bestonden, is wel fit genoeg.</p>

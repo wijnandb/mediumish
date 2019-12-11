@@ -7,7 +7,7 @@ externe_link: "https://nos.nl/l/2314008"
 image: "https://nos.nl/data/image/2019/12/09/612894/1008x567.jpg"
 aantal: 235
 unieke: 155
-bron: "NOS"
+author: "NOS"
 ---
 
 <p>Er zijn drie duo's bekendgemaakt die de nieuwe talkshow Op1 zullen presenteren. Het gaat om Willemijn Veenhoven en Erik Dijkstra; Carrie ten Napel en Charles Groenhuijsen; en Sophie Hilbrand en Hugo Logtenberg. Binnenkort komt de NPO met meer presentatoren die het team uitbreiden.</p>

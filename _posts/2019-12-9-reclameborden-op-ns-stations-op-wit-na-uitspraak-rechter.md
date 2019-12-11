@@ -7,7 +7,7 @@ externe_link: "https://nos.nl/l/2313975"
 image: "https://nos.nl/data/image/2019/12/09/612822/1008x567.jpg"
 aantal: 190
 unieke: 121
-bron: "NOS"
+author: "NOS"
 ---
 
 <p>Op ruim 300 stations zijn in totaal 5000 lege reclameborden te zien. Door een uitspraak van het Gerechtshof in Arnhem moeten de reclameborden van de NS op wit en daarnaast moet de NS ook nog een schadevergoeding betalen.</p>

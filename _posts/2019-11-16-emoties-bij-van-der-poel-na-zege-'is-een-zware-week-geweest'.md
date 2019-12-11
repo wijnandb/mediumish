@@ -7,7 +7,7 @@ externe_link: "https://nos.nl/l/2310720"
 image: "https://nos.nl/data/image/2019/11/16/593632/1008x567.jpg"
 aantal: 232
 unieke: 150
-bron: "NOS"
+author: "NOS"
 ---
 
 <p>Mathieu van der Poel heeft de wereldbekerwedstrijd in Tábor gewonnen. Maar hij was met zijn gedachten bij zijn opa Raymond Poulidor, die afgelopen week op 83-jarige leeftijd overleed.</p>

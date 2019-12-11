@@ -7,7 +7,7 @@ externe_link: "http://feeds.nos.nl/~r/nosnieuwskoningshuis/~3/YP7s-CniPWo/231310
 image: "https://nos.nl/data/image/2019/12/03/609699/1008x567.jpg"
 aantal: 164
 unieke: 118
-bron: "NOS"
+author: "NOS"
 ---
 
 <p>Koning Willem-Alexander en koningin Máxima gaan in maart op staatsbezoek naar Indonesië. Het bezoek staat in het teken van samenwerking, onder andere op het gebied van landbouw, gezondheid, kustbescherming en watertechnologie, zegt de Rijksvoorlichtingsdienst.</p>

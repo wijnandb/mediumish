@@ -7,7 +7,7 @@ externe_link: "https://nos.nl/l/2314041"
 image: "https://nos.nl/data/image/2019/12/09/612945/1008x567.jpg"
 aantal: 242
 unieke: 178
-bron: "NOS"
+author: "NOS"
 ---
 
 <p>Piet Paulusma gaat aan de slag als weerman bij Omroep Max. Op 1 januari is Piets Weer voor het eerst te zien bij de omroep voor vijftigplussers.</p>

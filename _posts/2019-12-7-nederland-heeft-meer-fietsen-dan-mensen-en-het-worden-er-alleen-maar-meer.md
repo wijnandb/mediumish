@@ -7,7 +7,7 @@ externe_link: "https://nos.nl/l/2313742"
 image: "https://nos.nl/data/image/2019/12/07/612360/1008x567.jpg"
 aantal: 457
 unieke: 278
-bron: "NOS"
+author: "NOS"
 ---
 
 <p>Het is druk op het fietspad, zeker in de binnensteden. Er zijn 22,9 miljoen fietsen in Nederland. Dat aantal stijgt al jaren, net als de omzet van fietshandelaren. Dit jaar ging er zo'n 1,2 miljard euro om in de Nederlandse fietsindustrie, een kwart meer dan het jaar ervoor.</p>

@@ -7,7 +7,7 @@ externe_link: "http://feeds.nos.nl/~r/nossporttennis/~3/hCU5SpjnWfk/2313535"
 image: "https://nos.nl/data/image/2019/12/06/611942/1008x567.jpg"
 aantal: 117
 unieke: 90
-bron: "NOS"
+author: "NOS"
 ---
 
 <p>Tennisster Caroline Wozniacki zet na de Australian Open, begin februari, een punt achter haar loopbaan. De 29-jarige Deense wil een gezin starten en gaat zich inzetten om meer aandacht voor artritis te krijgen, een vorm van reuma die ze zelf heeft.</p>

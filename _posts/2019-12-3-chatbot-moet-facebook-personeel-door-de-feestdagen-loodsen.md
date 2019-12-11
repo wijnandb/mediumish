@@ -7,7 +7,7 @@ externe_link: "https://nos.nl/l/2313069"
 image: "https://nos.nl/data/image/2019/12/03/609587/1008x567.jpg"
 aantal: 236
 unieke: 162
-bron: "NOS"
+author: "NOS"
 ---
 
 <p>Sommige Facebook-medewerkers maken zich zorgen over de komende feestdagen: wat moeten we zeggen als vrienden en familie aan het kerstdiner kritische vragen stellen over Facebook? Het bedrijf heeft daar nu een oplossing voor gevonden in de vorm van een chatbot, bevestigt een woordvoerder aan The New York Times.</p>

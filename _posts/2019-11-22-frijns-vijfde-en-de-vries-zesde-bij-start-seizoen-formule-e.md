@@ -7,7 +7,7 @@ externe_link: "https://nos.nl/l/2311547"
 image: "https://nos.nl/data/image/2019/11/22/595234/1008x567.jpg"
 aantal: 136
 unieke: 94
-bron: "NOS"
+author: "NOS"
 ---
 
 <p>Robin Frijns en Nyck de Vries zijn er bij de seizoensopening van de Formule E in Saudi-Arabië niet in geslaagd een podiumplaats af te dwingen. Frijns stuurde zijn bolide in Diriyah naar de vijfde plaats, De Vries volgde als nummer zes. De race werd gewonnen door Sam Bird, teamgenoot van Frijns.</p>

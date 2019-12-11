@@ -7,7 +7,7 @@ externe_link: "https://nos.nl/l/2313876"
 image: "https://nos.nl/data/image/2019/12/08/612646/1008x567.jpg"
 aantal: 131
 unieke: 93
-bron: "NOS"
+author: "NOS"
 ---
 
 <p>De Amerikaanse rapper Juice Wrld is overleden. Volgens het Amerikaanse medium TMZ kreeg hij een beroerte op het vliegveld van Chicago. Bronnen bij de brandweer bevestigen dat bij AP.</p>

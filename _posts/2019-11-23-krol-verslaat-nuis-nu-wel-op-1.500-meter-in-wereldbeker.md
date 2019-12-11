@@ -7,7 +7,7 @@ externe_link: "http://feeds.nos.nl/~r/nossportschaatsen/~3/ZghwHUBTLg4/2311692"
 image: "https://nos.nl/data/image/2019/11/23/595618/1008x567.jpg"
 aantal: 463
 unieke: 263
-bron: "NOS"
+author: "NOS"
 ---
 
 <p>Thomas Krol heeft voor de tweede keer in zijn schaatscarrière de 1.500 meter gewonnen in de wereldbeker. In het Poolse Tomaszów was hij sneller dan zijn grote concurrent Kjeld Nuis. Krol won de schaatsmijl bovendien in een baanrecord: 1.45,76.</p>

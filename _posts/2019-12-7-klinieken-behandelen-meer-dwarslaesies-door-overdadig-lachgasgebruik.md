@@ -7,7 +7,7 @@ externe_link: "https://nos.nl/l/2313755"
 image: "https://nos.nl/data/image/2019/12/07/612396/1008x567.jpg"
 aantal: 489
 unieke: 297
-bron: "NOS"
+author: "NOS"
 ---
 
 <p>Steeds meer gebruikers van lachgas belanden in een revalidatiecentrum, soms zelfs met blijvende verlamming. Dat blijkt uit cijfers die Nieuwsuur opvroeg bij revalidatieklinieken.</p>

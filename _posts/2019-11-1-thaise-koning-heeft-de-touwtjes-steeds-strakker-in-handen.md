@@ -7,7 +7,7 @@ externe_link: "http://feeds.nos.nl/~r/nosnieuwskoningshuis/~3/8sXIdbGT1bc/230863
 image: "https://nos.nl/data/image/2019/11/01/589203/1008x567.jpg"
 aantal: 579
 unieke: 349
-bron: "NOS"
+author: "NOS"
 ---
 
 <p>Duizenden ambtenaren, agenten en leraren in Thailand krijgen loyaliteitstraining in een militair kamp. Het project is bedoeld om de eerbied voor het koningshuis en de vaderlandsliefde te vergroten. En zo laat de nieuwe koning Maha Vajiralongkorn zijn macht op steeds meer manieren gelden.</p>

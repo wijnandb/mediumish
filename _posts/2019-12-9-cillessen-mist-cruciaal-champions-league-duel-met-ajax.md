@@ -2,12 +2,12 @@
 layout: post
 title: "Cillessen mist cruciaal Champions League-duel met Ajax"
 date: Mon, 09 Dec 2019 14:49:38 +0100
-category: sport_algemeen
+category: voetbal
 externe_link: "https://nos.nl/l/2314007"
 image: "https://nos.nl/data/image/2019/12/09/612893/1008x567.jpg"
 aantal: 185
 unieke: 125
-bron: "NOS"
+author: "NOS"
 ---
 
 <p>Jasper Cillessen staat dinsdagavond niet onder de lat bij Valencia als de Spaanse club het in de Champions League opneemt tegen Ajax. Cillessen viel zaterdag in de gewonnen wedstrijd tegen Levante (4-2) uit met een kuitblessure en is niet op tijd hersteld.</p>

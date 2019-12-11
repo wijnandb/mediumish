@@ -7,7 +7,7 @@ externe_link: "https://nos.nl/l/2313976"
 image: "https://nos.nl/data/image/2019/12/09/612824/1008x567.jpg"
 aantal: 263
 unieke: 178
-bron: "NOS"
+author: "NOS"
 ---
 
 <p>Het Openbaar Ministerie zegt geen bewijs gevonden te hebben voor politieke beïnvloeding bij het besluit om Geert Wilders te vervolgen voor zijn 'minder-Marokkanen'-uitspraak in 2014. Dat heeft het OM aan het gerechtshof laten weten, zo meldde het hof tijdens de voortzetting van het hoger beroep tegen Wilders.</p>

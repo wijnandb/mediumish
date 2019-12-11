@@ -7,7 +7,7 @@ externe_link: "https://nos.nl/l/2313195"
 image: "https://nos.nl/data/image/2019/12/04/610030/1008x567.jpg"
 aantal: 203
 unieke: 137
-bron: "NOS"
+author: "NOS"
 ---
 
 <p>De oprichters van Google, Larry Page en Sergey Brin, doen een stap opzij bij moederbedrijf Alphabet. Ze vinden het niet langer nodig dat er verschillende topmensen zijn voor Google en Alphabet.</p>

@@ -7,7 +7,7 @@ externe_link: "http://feeds.nos.nl/~r/nossportschaatsen/~3/sPHLopl-CSI/2311940"
 image: "https://nos.nl/data/image/2019/11/25/596130/1008x567.jpg"
 aantal: 648
 unieke: 353
-bron: "NOS"
+author: "NOS"
 ---
 
 <p>Na de Olympische Spelen van Pyeongchang verdween hij ineens van het schaatstoneel. Een groots afscheid kwam er nooit en de vraag of hij daadwerkelijk gestopt was, bleef lang onbeantwoord.</p>

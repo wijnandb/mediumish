@@ -7,7 +7,7 @@ externe_link: "http://feeds.nos.nl/~r/nosnieuwskoningshuis/~3/su1gi67srdo/231246
 image: "https://nos.nl/data/image/2019/11/28/598342/1008x567.jpg"
 aantal: 370
 unieke: 207
-bron: "NOS"
+author: "NOS"
 ---
 
 <p>Draagt koning Willem-Alexander vandaag een effen stropdas, eentje met opdruk of helemaal geen das? Presentator Arjen Lubach van het satirische tv-programma Zondag met Lubach wierp die vraag zondag op na een item over de onkostenvergoeding van de Oranjes.</p>

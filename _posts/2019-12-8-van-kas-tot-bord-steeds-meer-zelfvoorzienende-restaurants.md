@@ -7,7 +7,7 @@ externe_link: "https://nos.nl/l/2313828"
 image: "https://nos.nl/data/image/2019/12/08/612518/1008x567.jpg"
 aantal: 604
 unieke: 345
-bron: "NOS"
+author: "NOS"
 ---
 
 <p>Een toenemend aantal restaurants kweekt zelf de producten die ze aan hun gasten serveren. Uit een rondgang van de NOS blijkt dat er in Nederland nu zo'n twintig (deels) zelfvoorzienende restaurants zijn. De meerderheid bestaat pas een paar jaar.</p>

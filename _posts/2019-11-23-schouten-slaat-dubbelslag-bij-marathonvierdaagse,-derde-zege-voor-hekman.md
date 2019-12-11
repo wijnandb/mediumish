@@ -7,7 +7,7 @@ externe_link: "http://feeds.nos.nl/~r/nossportschaatsen/~3/6RSlpgjPa68/2311755"
 image: "https://nos.nl/data/image/2019/11/23/595748/1008x567.jpg"
 aantal: 159
 unieke: 111
-bron: "NOS"
+author: "NOS"
 ---
 
 <p>Marathonschaatsster Kelly Schouten heeft voor eigen publiek in Hoorn de derde etappe van de Trachitol Trophy gewonnen. Daarmee nam ze ook de leidende positie in het klassement over.</p>

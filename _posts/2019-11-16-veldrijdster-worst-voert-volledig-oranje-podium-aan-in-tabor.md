@@ -7,7 +7,7 @@ externe_link: "https://nos.nl/l/2310705"
 image: "https://nos.nl/data/image/2019/11/16/593636/1008x567.jpg"
 aantal: 211
 unieke: 147
-bron: "NOS"
+author: "NOS"
 ---
 
 <p>Annemarie Worst heeft de wereldbekerwedstrijd in het Tsjechische Tábor op haar naam geschreven. In een door Oranje-rensters gedomineerde wedstrijd rekende ze in de laatste ronde af met Ceylin del Carmen Alvarado.</p>

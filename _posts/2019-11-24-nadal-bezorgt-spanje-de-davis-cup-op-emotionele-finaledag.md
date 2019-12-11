@@ -7,7 +7,7 @@ externe_link: "http://feeds.nos.nl/~r/nossporttennis/~3/n77pQc-Y4Rg/2311912"
 image: "https://nos.nl/data/image/2019/11/25/596160/1008x567.jpg"
 aantal: 293
 unieke: 205
-bron: "NOS"
+author: "NOS"
 ---
 
 <p>Spanje heeft voor de zesde keer - en voor de eerste keer sinds 2011 - de Davis Cup veroverd. Rafael Nadal sloeg in Madrid het winnende punt binnen in de finale tegen Canada: 2-0.</p>

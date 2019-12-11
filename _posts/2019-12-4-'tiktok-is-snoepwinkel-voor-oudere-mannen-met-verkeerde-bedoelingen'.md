@@ -7,7 +7,7 @@ externe_link: "https://nos.nl/l/2313276"
 image: "https://nos.nl/data/image/2019/12/05/611204/1008x567.jpg"
 aantal: 718
 unieke: 384
-bron: "NOS"
+author: "NOS"
 ---
 
 <p>Hulporganisaties Helpwanted.nl en Watch Nederland zijn bezorgd over het toenemend aantal meldingen van seksueel ongewenst gedrag op TikTok. De social media app, waarmee je korte muziekvideo's kunt maken en delen, wordt in Nederland door zo'n één miljoen mensen gebruikt en is vooral populair onder kinderen en tieners.</p>

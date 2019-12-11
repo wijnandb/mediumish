@@ -7,7 +7,7 @@ externe_link: "https://nos.nl/l/2313016"
 image: "https://nos.nl/data/image/2019/12/03/609485/1008x567.jpg"
 aantal: 426
 unieke: 228
-bron: "NOS"
+author: "NOS"
 ---
 
 <p>Bij de uitrol van het nieuwe mobiele netwerk 5G komt het kabinet met aanvullende eisen om het Chinese Huawei te weren. In de eisen wordt Huawei niet specifiek genoemd, maar in de praktijk komt het er op neer dat er voor de aanleg van de meest gevoelige delen van het 5G-netwerk geen zaken mogen worden gedaan met het Chinese bedrijf.</p>

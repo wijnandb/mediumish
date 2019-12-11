@@ -7,7 +7,7 @@ externe_link: "https://nos.nl/l/2313011"
 image: "https://nos.nl/data/image/2019/12/02/609281/1008x567.jpg"
 aantal: 232
 unieke: 156
-bron: "NOS"
+author: "NOS"
 ---
 
 <p>De laatste NOS Formule 1-podcast van het jaar is een bijzondere, want er wordt niet alleen teruggeblikt op de grand prix van afgelopen weekeinde in Abu Dhabi, ook wordt er teruggekeken naar de afgelopen anderhalf jaar.</p>

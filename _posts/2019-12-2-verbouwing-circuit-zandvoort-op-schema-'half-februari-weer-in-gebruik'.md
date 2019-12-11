@@ -7,7 +7,7 @@ externe_link: "https://nos.nl/l/2312968"
 image: "https://nos.nl/data/image/2019/12/02/609158/1008x567.jpg"
 aantal: 563
 unieke: 307
-bron: "NOS"
+author: "NOS"
 ---
 
 <p>Tussen graafmachines, bulldozers en grote hopen zand heeft de organisatie voor de Grand Prix van Nederland maandagmorgen een update gegeven over de verbouwingen op het circuit van Zandvoort.</p>

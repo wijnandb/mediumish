@@ -7,7 +7,7 @@ externe_link: "https://nos.nl/l/2313048"
 image: "https://nos.nl/data/image/2019/12/03/609497/1008x567.jpg"
 aantal: 156
 unieke: 101
-bron: "NOS"
+author: "NOS"
 ---
 
 <p>De makers van de populaire videogame League of Legends gaan 10 miljoen dollar betalen aan vrouwen die voor het bedrijf werken of hebben gewerkt. Het is een schikking in een discriminatiezaak die twee werknemers hadden aangespannen.</p>

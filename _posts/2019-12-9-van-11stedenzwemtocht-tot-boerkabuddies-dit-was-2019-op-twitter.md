@@ -2,12 +2,12 @@
 layout: post
 title: "Van #11stedenzwemtocht tot #boerkabuddies: dit was 2019 op Twitter"
 date: Mon, 09 Dec 2019 21:08:50 +0100
-category: nieuws
+category: tech
 externe_link: "https://nos.nl/l/2314058"
 image: "https://nos.nl/data/image/2019/12/09/612973/1008x567.jpg"
 aantal: 329
 unieke: 209
-bron: "NOS"
+author: "NOS"
 ---
 
 <p>#Nashvilleverklaring of #boerkabuddies zeggen je nu misschien niet meteen iets, maar het waren dit jaar hashtags die trending waren op Twitter. Dat blijkt uit een terugblik van het sociale medium.</p>

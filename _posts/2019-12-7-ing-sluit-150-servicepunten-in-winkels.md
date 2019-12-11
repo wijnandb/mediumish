@@ -7,7 +7,7 @@ externe_link: "https://nos.nl/l/2313648"
 image: "https://nos.nl/data/image/2019/12/07/612172/1008x567.jpg"
 aantal: 165
 unieke: 118
-bron: "NOS"
+author: "NOS"
 ---
 
 <p>ING vermindert het aantal servicebalies van de bank in winkels als Bruna, Primera en The Read Shop. Van de 380 servicepunten sluiten er komend jaar zo'n 150.</p>

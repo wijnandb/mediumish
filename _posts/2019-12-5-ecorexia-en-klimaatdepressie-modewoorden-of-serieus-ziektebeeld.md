@@ -7,7 +7,7 @@ externe_link: "https://nos.nl/l/2313399"
 image: "https://nos.nl/data/image/2019/12/06/611732/1008x567.jpg"
 aantal: 442
 unieke: 282
-bron: "NOS"
+author: "NOS"
 ---
 
 <p>Eco-angst, ecorexia, klimaatstress en klimaatdepressie. Het zijn woorden die steeds vaker opduiken. En ook al zijn het nog geen wetenschappelijk erkende of onderbouwde labels, het zal niet lang duren tot er wel serieus onderzoek naar wordt gedaan. Dat zegt ten minste Jaap van der Stel, lector psychische gezondheidszorg aan de Hogeschool Leiden en schrijver van het boek Veerkracht bij Klimaatverandering.</p>

@@ -7,7 +7,7 @@ externe_link: "https://nos.nl/l/2313956"
 image: "https://nos.nl/data/image/2019/12/09/612791/1008x567.jpg"
 aantal: 271
 unieke: 169
-bron: "NOS"
+author: "NOS"
 ---
 
 <p>Bedrijven zijn meer geld kwijt aan het verzekeren van zonnepanelen en besluiten daarom vaker om ze maar niet te installeren. Verzekeraars hebben de premies verhoogd vanwege de kans op brand, blijkt uit een rondgang door Het Financieele Dagblad. De ongelukken zijn het gevolg van ondeskundige aanleg.</p>

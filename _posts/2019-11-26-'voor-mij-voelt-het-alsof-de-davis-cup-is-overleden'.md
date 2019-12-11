@@ -7,7 +7,7 @@ externe_link: "http://feeds.nos.nl/~r/nossporttennis/~3/nqaQT6Lf75I/2312073"
 image: "https://nos.nl/data/image/2019/11/26/596404/1008x567.jpg"
 aantal: 516
 unieke: 323
-bron: "NOS"
+author: "NOS"
 ---
 
 <p>Te vaak lege tribunes, wedstrijden tot diep in de nacht, klagende tennissers en zelfs een slecht functionerende website en app. De kritiek op de nieuwe opzet van de Davis Cup was afgelopen week niet van de lucht. Heeft het gerenoveerde toernooi toekomst? De kenners zijn niet eensgezind.</p>

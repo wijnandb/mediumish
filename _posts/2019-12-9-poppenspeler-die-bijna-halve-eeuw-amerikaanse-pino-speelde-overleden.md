@@ -7,7 +7,7 @@ externe_link: "https://nos.nl/l/2313939"
 image: "https://nos.nl/data/image/2019/12/09/612750/1008x567.jpg"
 aantal: 172
 unieke: 120
-bron: "NOS"
+author: "NOS"
 ---
 
 <p>Poppenspeler Caroll Spinney, die bijna vijftig jaar 'Big Bird' speelde in de Amerikaanse versie van Sesamstraat, is op 85-jarige leeftijd overleden.</p>

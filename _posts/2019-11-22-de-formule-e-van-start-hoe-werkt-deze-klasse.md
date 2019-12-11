@@ -7,7 +7,7 @@ externe_link: "https://nos.nl/l/2311515"
 image: "https://nos.nl/data/image/2019/11/22/595238/1008x567.jpg"
 aantal: 766
 unieke: 410
-bron: "NOS"
+author: "NOS"
 ---
 
 <p>Het waren maar een paar zinnen, geschreven op een servet. Tijdens een etentje in een klein Italiaans restaurant in Parijs diende op 3 maart 2011 een simpel stukje papier als eerste bouwsteen voor een nieuwe autosportklasse: de Formule E.</p>

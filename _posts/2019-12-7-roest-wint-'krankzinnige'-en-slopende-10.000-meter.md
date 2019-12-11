@@ -7,7 +7,7 @@ externe_link: "http://feeds.nos.nl/~r/nossportschaatsen/~3/RF328_wc4BU/2313687"
 image: "https://nos.nl/data/image/2019/12/07/612316/1008x567.jpg"
 aantal: 530
 unieke: 311
-bron: "NOS"
+author: "NOS"
 ---
 
 <p>Patrick Roest en Thomas Krol hebben in Nur-Sultan allebei hun derde individuele wereldbekeroverwinning van het schaatsseizoen geboekt.</p>

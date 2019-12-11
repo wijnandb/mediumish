@@ -7,7 +7,7 @@ externe_link: "https://nos.nl/l/2312371"
 image: "https://nos.nl/data/image/2019/11/28/597869/1008x567.jpg"
 aantal: 186
 unieke: 134
-bron: "NOS"
+author: "NOS"
 ---
 
 <p>Vanwege de gewelddadige demonstraties werden in Hongkong al diverse sportevenementen afgelast. De Nederlandse baanwielrenners gaan vrijdag echter gewoon van start in de derde van zes internationale wereldbekerweekenden.</p>

@@ -2,12 +2,12 @@
 layout: post
 title: "Invloedrijke Fed-baas Volcker (92) overleden"
 date: Mon, 09 Dec 2019 21:27:16 +0100
-category: nieuws
+category: financieel
 externe_link: "https://nos.nl/l/2314061"
 image: "https://nos.nl/data/image/2019/12/09/612977/1008x567.jpg"
 aantal: 208
 unieke: 143
-bron: "NOS"
+author: "NOS"
 ---
 
 <p>Paul Volcker, volgens velen een van de beste centrale bankiers ooit, is overleden. Hij maakte in de jaren 80 naam als voorman van het stelsel van centrale banken in de Verenigde Staten, de Fed. Decennia later was hij een van de belangrijke krachten achter het herstel van de financiële crisis van 2008.</p>

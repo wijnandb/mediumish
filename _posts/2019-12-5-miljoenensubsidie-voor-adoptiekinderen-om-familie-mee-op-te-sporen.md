@@ -7,7 +7,7 @@ externe_link: "https://nos.nl/l/2313368"
 image: "https://nos.nl/data/image/2019/12/05/611457/1008x567.jpg"
 aantal: 443
 unieke: 254
-bron: "NOS"
+author: "NOS"
 ---
 
 <p>Nederlandse geadopteerden krijgen een financiële bijdrage van 1,2 miljoen euro om biologische familie op te sporen. Dat blijkt uit een brief van het ministerie van Justitie aan belangenorganisaties voor geadopteerden, in handen van Nieuwsuur. Zij vragen al jaren om geld om zoektochten uit te kunnen voeren in landen waar de adoptiekinderen vandaan komen.</p>

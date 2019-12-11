@@ -2,12 +2,12 @@
 layout: post
 title: "Poetin wil Russisch beroep tegen 'politieke sanctie' van dopingbureau WADA"
 date: Tue, 10 Dec 2019 10:01:14 +0100
-category: sport_algemeen
+category: sport
 externe_link: "https://nos.nl/l/2314098"
-image: "https://nos.nl/data/image/2019/12/10/613061/1008x567.jpg"
+image: "https://nos.nl/data/image/2019/12/10/613075/1008x567.jpg"
 aantal: 210
 unieke: 150
-bron: "NOS"
+author: "NOS"
 ---
 
 <p>Volgens de Russische president Vladimir Poetin is de schorsing van Rusland door wereldantidopingbureau WADA een "politieke sanctie". Het besluit heeft volgens hem niets te maken met het streven naar schone sport.</p>

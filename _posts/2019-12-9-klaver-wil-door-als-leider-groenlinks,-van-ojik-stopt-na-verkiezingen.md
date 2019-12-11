@@ -7,7 +7,7 @@ externe_link: "https://nos.nl/l/2313971"
 image: "https://nos.nl/data/image/2019/12/09/612816/1008x567.jpg"
 aantal: 172
 unieke: 115
-bron: "NOS"
+author: "NOS"
 ---
 
 <p>GroenLinks-leider Klaver wil opnieuw lijsttrekker worden van de partij bij de Tweede Kamerverkiezingen. Als dit kabinet de termijn volmaakt, worden die gehouden in maart 2021.</p>

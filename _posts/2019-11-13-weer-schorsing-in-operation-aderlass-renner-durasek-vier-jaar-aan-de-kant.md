@@ -7,7 +7,7 @@ externe_link: "https://nos.nl/l/2310321"
 image: "https://nos.nl/data/image/2019/11/13/592807/1008x567.jpg"
 aantal: 238
 unieke: 159
-bron: "NOS"
+author: "NOS"
 ---
 
 <p>Wielrenner Kristijan Durasek kan de komende vier jaar zijn fiets opbergen. De Kroatische renner is door de internationale wielerunie UCI geschorst vanwege betrokkenheid bij het dopingschandaal rond de Duitse sportarts Mark Schmidt, ook bekend als Operation Aderlass.</p>

@@ -7,7 +7,7 @@ externe_link: "http://feeds.nos.nl/~r/nossportschaatsen/~3/txG1DggsoaY/2313681"
 image: "https://nos.nl/data/image/2019/12/07/612239/1008x567.jpg"
 aantal: 244
 unieke: 158
-bron: "NOS"
+author: "NOS"
 ---
 
 <p>De Russische schaatssters hebben op de 500 meter opnieuw afgerekend met de Japanse Nao Kodaira. Dit keer waren Angelina Golikova en Daria Katsjanova sneller dan de Japanse, die de afgelopen seizoenen heerste op de sprint.</p>

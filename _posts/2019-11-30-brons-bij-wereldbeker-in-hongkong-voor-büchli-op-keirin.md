@@ -7,7 +7,7 @@ externe_link: "https://nos.nl/l/2312672"
 image: "https://nos.nl/data/image/2019/11/30/601311/1008x567.jpg"
 aantal: 219
 unieke: 137
-bron: "NOS"
+author: "NOS"
 ---
 
 <p>Matthijs Büchli heeft op de tweede dag van de wereldbekerwedstrijden in Hongkong brons veroverd op de keirin. De regerend wereldkampioen moest de Nieuw-Zeelander Callum Saunders en olympisch kampioen Jason Kenny (Groot-Brittannië) voor zich dulden.</p>

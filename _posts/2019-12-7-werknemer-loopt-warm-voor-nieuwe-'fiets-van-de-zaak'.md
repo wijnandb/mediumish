@@ -7,7 +7,7 @@ externe_link: "https://nos.nl/l/2313646"
 image: "https://nos.nl/data/image/2019/12/07/612167/1008x567.jpg"
 aantal: 205
 unieke: 128
-bron: "NOS"
+author: "NOS"
 ---
 
 <p>De nieuwe regeling voor een 'fiets van de zaak' die vanaf 1 januari ingaat, is populair onder werkende Nederlanders. In een enquête van Ipsos in opdracht van Nieuwsuur zegt een meerderheid enthousiast te zijn. Een op de zeven werknemers zegt ook de auto vaker te zullen laten staan en in plaats daarvan de (elektrische) fiets naar het werk te pakken.</p>

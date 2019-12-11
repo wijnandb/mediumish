@@ -2,12 +2,12 @@
 layout: post
 title: "Feyenoord-fans toch welkom bij uitduel met FC Porto"
 date: Mon, 09 Dec 2019 18:36:39 +0100
-category: sport_algemeen
+category: voetbal
 externe_link: "https://nos.nl/l/2314039"
 image: "https://nos.nl/data/image/2019/12/09/612944/1008x567.jpg"
 aantal: 227
 unieke: 143
-bron: "NOS"
+author: "NOS"
 ---
 
 <p>Het afsteken van vuurwerk door Feyenoordsupporters tijdens het uitduel met Young Boys (vorige maand), heeft minder zware gevolgen gekregen voor de Rotterdamse club.</p>

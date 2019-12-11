@@ -7,7 +7,7 @@ externe_link: "https://nos.nl/l/2311387"
 image: "https://nos.nl/data/image/2019/11/21/594994/1008x567.jpg"
 aantal: 316
 unieke: 204
-bron: "NOS"
+author: "NOS"
 ---
 
 <p>Waarom is Annemiek van Vleuten zoveel beter dan alle andere wielrensters? Het antwoord op die vraag is wellicht heel simpel: omdat ze traint met de mannen van haar ploeg Mitchelton-SCOTT.</p>

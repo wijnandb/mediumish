@@ -7,7 +7,7 @@ externe_link: "https://nos.nl/l/2312689"
 image: "https://nos.nl/data/image/2019/11/30/601207/1008x567.jpg"
 aantal: 289
 unieke: 197
-bron: "NOS"
+author: "NOS"
 ---
 
 <p>Hij had liever het seizoen afgesloten met nog een poleposition, maar uiteindelijk kon Max Verstappen zaterdagavond in Abu Dhabi wel leven met de derde tijd in de kwalificatie en een plaats op de eerste startrij zondag in de race.</p>

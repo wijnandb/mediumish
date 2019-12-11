@@ -7,7 +7,7 @@ externe_link: "https://nos.nl/l/2313131"
 image: "https://nos.nl/data/image/2019/12/03/609784/1008x567.jpg"
 aantal: 287
 unieke: 184
-bron: "NOS"
+author: "NOS"
 ---
 
 <p>Landen in de Europese Unie mogen zelf bepalen in welke mate er regels komen voor fabrikanten die meewerken aan de aanleg van 5G. Het Chinese bedrijf Huawei is daarbij niet bij voorbaat uitgesloten. Dat schrijven de telecomministers van de EU in een gezamenlijke verklaring na afloop van de telecomraad waar de veiligheid van 5G ter sprake kwam.</p>
